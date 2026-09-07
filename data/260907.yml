@@ -5,19 +5,19 @@ about:
   head: 60b504a
   archived: false
   latestVersion: "v1.15.0-alpha.2"
-  collectedAt: 2026-09-07T05:32:55Z
+  collectedAt: 2026-09-07T18:57:08Z
 timeline:
   created: 2022-06-30
   lastCommit: 2026-09-06
   lastRelease: 2026-09-05
 popularity:
-  star: 37699
+  star: 37734
   watcher: 203
-  fork: 4539
+  fork: 4543
   release: 593
   contributor: 109
   pullRequest: 701
-  issue: 3354
+  issue: 3357
 language:
   Go: 5301165
   Shell: 64311
@@ -33,7 +33,7 @@ recent:
     mergedPR: 1
     openPR: 1
     closedIssue: 13
-    openIssue: 79
+    openIssue: 82
     commit: 103
   last60d:
     since: 2026-07-09
@@ -41,7 +41,7 @@ recent:
     mergedPR: 9
     openPR: 11
     closedIssue: 48
-    openIssue: 119
+    openIssue: 122
     commit: 231
   last90d:
     since: 2026-06-09
@@ -49,7 +49,7 @@ recent:
     mergedPR: 9
     openPR: 18
     closedIssue: 83
-    openIssue: 133
+    openIssue: 136
     commit: 299
   last180d:
     since: 2026-03-11
@@ -57,7 +57,7 @@ recent:
     mergedPR: 16
     openPR: 37
     closedIssue: 224
-    openIssue: 167
+    openIssue: 170
     commit: 477
   last360d:
     since: 2025-09-12
@@ -65,7 +65,7 @@ recent:
     mergedPR: 31
     openPR: 41
     closedIssue: 517
-    openIssue: 203
+    openIssue: 206
     commit: 726
   last720d:
     since: 2024-09-17
@@ -73,18 +73,18 @@ recent:
     mergedPR: 94
     openPR: 41
     closedIssue: 1449
-    openIssue: 262
+    openIssue: 265
     commit: 1290
 total:
   release: 593
   mergedPR: 210
   openPR: 41
   closedIssue: 3075
-  openIssue: 279
+  openIssue: 282
   commit: 2720
 ---
 path: /home/runner/.x-repo/github.com/SagerNet/sing-box
-collectedAt: 2026-09-07T05:33:00Z
+collectedAt: 2026-09-07T18:57:13Z
 loc:
   Go:
     code: 167487
@@ -190,7 +190,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:33:01+00:00
+  collectedAt: 2026-09-07T18:57:16+00:00
   platform:
     darwin/arm64:
       name:  sing-box-1.14.0-darwin-arm64.tar.gz
