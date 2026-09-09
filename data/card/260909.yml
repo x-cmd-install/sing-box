@@ -2,12 +2,12 @@ about:
   description: "The universal proxy platform"
   license: NOASSERTION
   homepage: https://sing-box.sagernet.org/
-  head: 7ceb77a
+  head: abc21e4
   archived: false
   latestVersion: "v1.15.0-alpha.2"
   latestRelease: "v1.14.0"
   latestPrerelease: "v1.15.0-alpha.2"
-  collectedAt: 2026-09-09T05:43:19Z
+  collectedAt: 2026-09-09T19:52:59Z
 timeline:
   created: 2022-06-30
   lastCommit: 2026-09-09
@@ -15,21 +15,21 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 2026-09-05
 popularity:
-  star: 37782
+  star: 37800
   watcher: 203
-  fork: 4547
+  fork: 4549
   release: 593
   contributor: 109
   pullRequest: 701
-  issue: 3360
+  issue: 3361
 language:
-  Go: 5317006
+  Go: 5317062
   Shell: 64311
   Objective-C: 42725
   Makefile: 10595
   C: 8293
   Dockerfile: 1087
-totalBytes: 5444017
+totalBytes: 5444073
 recent:
   last30d:
     since: 2026-08-10
@@ -37,7 +37,7 @@ recent:
     mergedPR: 0
     openPR: 1
     closedIssue: 15
-    openIssue: 81
+    openIssue: 82
     commit: 114
   last60d:
     since: 2026-07-11
@@ -45,7 +45,7 @@ recent:
     mergedPR: 9
     openPR: 11
     closedIssue: 48
-    openIssue: 122
+    openIssue: 123
     commit: 242
   last90d:
     since: 2026-06-11
@@ -53,7 +53,7 @@ recent:
     mergedPR: 9
     openPR: 17
     closedIssue: 82
-    openIssue: 137
+    openIssue: 138
     commit: 310
   last180d:
     since: 2026-03-13
@@ -61,7 +61,7 @@ recent:
     mergedPR: 16
     openPR: 37
     closedIssue: 222
-    openIssue: 169
+    openIssue: 170
     commit: 488
   last360d:
     since: 2025-09-14
@@ -69,7 +69,7 @@ recent:
     mergedPR: 31
     openPR: 41
     closedIssue: 515
-    openIssue: 205
+    openIssue: 206
     commit: 737
   last720d:
     since: 2024-09-19
@@ -77,21 +77,21 @@ recent:
     mergedPR: 93
     openPR: 41
     closedIssue: 1448
-    openIssue: 265
+    openIssue: 266
     commit: 1298
 total:
   release: 593
   mergedPR: 210
   openPR: 41
   closedIssue: 3078
-  openIssue: 282
+  openIssue: 283
   commit: 2731
 ---
 path: /home/runner/.x-repo/github.com/SagerNet/sing-box
-collectedAt: 2026-09-09T05:43:23Z
+collectedAt: 2026-09-09T19:53:03Z
 loc:
   Go:
-    code: 168007
+    code: 168009
     comments: 3460
     blanks: 17202
     files: 1176
@@ -186,7 +186,7 @@ loc:
     blanks: 223
     files: 1
 total:
-  code: 199456
+  code: 199458
   comments: 23707
   blanks: 32230
   files: 1521
