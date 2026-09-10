@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.15.0-alpha.2"
   latestRelease: "v1.14.0"
   latestPrerelease: "v1.15.0-alpha.2"
-  collectedAt: 2026-09-10T20:39:21Z
+  collectedAt: 2026-09-10T23:06:06Z
 timeline:
   created: 2022-06-30
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 2026-09-05
 popularity:
-  star: 37843
+  star: 37844
   watcher: 203
-  fork: 4559
+  fork: 4558
   release: 593
   contributor: 109
   pullRequest: 701
@@ -88,7 +88,7 @@ total:
   commit: 2734
 ---
 path: /home/runner/.x-repo/github.com/SagerNet/sing-box
-collectedAt: 2026-09-10T20:39:24Z
+collectedAt: 2026-09-10T23:06:14Z
 loc:
   Go:
     code: 168012
