@@ -12,7 +12,7 @@ The universal proxy platform
 x install sing-box
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **191,236** 行代码（覆盖前 5 种语言、共 **1207** 个文件）。
 
@@ -38,7 +38,7 @@ x install sing-box
 
 ## 流行度
 
-- **Star**: 37,843 · **Fork**: 4,559 · **开放 issue**: 3,366 · **贡献者**: 109
+- **Star**: 37,844 · **Fork**: 4,558 · **开放 issue**: 3,366 · **贡献者**: 109
 
 ## 累计统计
 
@@ -248,4 +248,4 @@ sing-box 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:39:31Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:06:24Z._
