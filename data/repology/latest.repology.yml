@@ -1,29 +1,15 @@
-- repo: homebrew
+- repo: nix_stable_25_11
   srcname: sing-box
   visiblename: sing-box
-  version: HEAD
+  version: 1.12.25
   origversion: null
-  status: rolling
-  summary: Universal proxy platform
-- repo: homebrew
-  srcname: sing-box
-  visiblename: sing-box
-  version: 1.14.0
-  origversion: null
-  status: newest
-  summary: Universal proxy platform
-- repo: openwrt_23_05_x86_64
-  subrepo: packages
-  srcname: feeds/packages/net/sing-box
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.11.15
-  origversion: 1.11.15-1
   status: outdated
+  summary: Universal proxy platform
   maintainers:
-    - brvphoenix@gmail.com
-  categories:
-    - net
+    - nickcao@nichi.co
+    - prc.zhao@outlook.com
+  licenses:
+    - GPL-3.0-or-later
 - repo: alpine_3_23
   subrepo: community
   srcname: sing-box
@@ -89,18 +75,6 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
-- repo: fdroid
-  srcname: io.nekohasekai.sfa
-  binname: io.nekohasekai.sfa
-  visiblename: sing-box
-  version: 1.13.21
-  origversion: null
-  status: outdated
-  summary: The universal proxy platform
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - DNS & Hosts
 - repo: alpine_3_24
   subrepo: community
   srcname: sing-box
@@ -140,18 +114,6 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
-- repo: fdroid
-  srcname: io.nekohasekai.sfa
-  binname: io.nekohasekai.sfa
-  visiblename: sing-box
-  version: 1.13.19
-  origversion: null
-  status: legacy
-  summary: The universal proxy platform
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - DNS & Hosts
 - repo: alpine_3_24
   subrepo: community
   srcname: sing-box
@@ -204,6 +166,19 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
+- repo: aur
+  srcname: sing-box-bin
+  binname: sing-box-bin
+  visiblename: sing-box-bin
+  version: 1.14.0
+  origversion: 1.14.0-1
+  status: newest
+  summary: The universal proxy platform (binary version)
+  maintainers:
+    - adityaphra@aur
+  licenses:
+    - GPL-3.0-or-later
+    - LicenseRef-sing-box-exception
 - repo: alpine_edge
   subrepo: community
   srcname: sing-box
@@ -230,18 +205,6 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
-- repo: fdroid
-  srcname: io.nekohasekai.sfa
-  binname: io.nekohasekai.sfa
-  visiblename: sing-box
-  version: 1.13.20
-  origversion: null
-  status: legacy
-  summary: The universal proxy platform
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - DNS & Hosts
 - repo: alpine_edge
   subrepo: community
   srcname: sing-box
@@ -331,7 +294,7 @@
   binname: sing-box
   visiblename: sing-box
   version: 1.14.0
-  origversion: 1.14.0-3
+  origversion: 1.14.0-4
   status: newest
   summary: The universal proxy platform
   licenses:
@@ -362,19 +325,18 @@
     - mikelei@aur
   licenses:
     - GPL-3.0-or-later
-- repo: aur
-  srcname: sing-box-bin
-  binname: sing-box-bin
-  visiblename: sing-box-bin
-  version: 1.14.0
-  origversion: 1.14.0-1
-  status: newest
-  summary: The universal proxy platform (binary version)
+- repo: nix_stable_25_05
+  srcname: sing-box
+  visiblename: sing-box
+  version: 1.11.15
+  origversion: null
+  status: outdated
+  summary: Universal proxy platform
   maintainers:
-    - adityaphra@aur
+    - nickcao@nichi.co
+    - prc.zhao@outlook.com
   licenses:
     - GPL-3.0-or-later
-    - LicenseRef-sing-box-exception
 - repo: aur
   srcname: sing-box-git
   binname: sing-box-git
@@ -394,6 +356,42 @@
   origversion: null
   status: outdated
   summary: The universal proxy platform
+- repo: fdroid
+  srcname: io.nekohasekai.sfa
+  binname: io.nekohasekai.sfa
+  visiblename: sing-box
+  version: 1.13.21
+  origversion: null
+  status: outdated
+  summary: The universal proxy platform
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - DNS & Hosts
+- repo: fdroid
+  srcname: io.nekohasekai.sfa
+  binname: io.nekohasekai.sfa
+  visiblename: sing-box
+  version: 1.13.20
+  origversion: null
+  status: legacy
+  summary: The universal proxy platform
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - DNS & Hosts
+- repo: fdroid
+  srcname: io.nekohasekai.sfa
+  binname: io.nekohasekai.sfa
+  visiblename: sing-box
+  version: 1.13.19
+  origversion: null
+  status: legacy
+  summary: The universal proxy platform
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - DNS & Hosts
 - repo: freebsd
   srcname: net/sing-box
   binname: sing-box
@@ -406,6 +404,20 @@
     - yuri@freebsd.org
   categories:
     - net
+- repo: homebrew
+  srcname: sing-box
+  visiblename: sing-box
+  version: 1.14.0
+  origversion: null
+  status: newest
+  summary: Universal proxy platform
+- repo: homebrew
+  srcname: sing-box
+  visiblename: sing-box
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Universal proxy platform
 - repo: homebrew_casks
   srcname: sfm
   visiblename: SFM
@@ -485,30 +497,6 @@
     - nickcao@nichi.co
   licenses:
     - GPL-3.0-or-later
-- repo: nix_stable_25_05
-  srcname: sing-box
-  visiblename: sing-box
-  version: 1.11.15
-  origversion: null
-  status: outdated
-  summary: Universal proxy platform
-  maintainers:
-    - nickcao@nichi.co
-    - prc.zhao@outlook.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_stable_25_11
-  srcname: sing-box
-  visiblename: sing-box
-  version: 1.12.25
-  origversion: null
-  status: outdated
-  summary: Universal proxy platform
-  maintainers:
-    - nickcao@nichi.co
-    - prc.zhao@outlook.com
-  licenses:
-    - GPL-3.0-or-later
 - repo: nix_stable_26_05
   srcname: sing-box
   visiblename: sing-box
@@ -535,6 +523,18 @@
     - i@qaq.li
   licenses:
     - GPL-3.0-or-later
+- repo: openwrt_23_05_x86_64
+  subrepo: packages
+  srcname: feeds/packages/net/sing-box
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.11.15
+  origversion: 1.11.15-1
+  status: outdated
+  maintainers:
+    - brvphoenix@gmail.com
+  categories:
+    - net
 - repo: openwrt_24_10_x86_64
   subrepo: packages
   srcname: feeds/packages/net/sing-box
