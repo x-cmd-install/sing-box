@@ -14,11 +14,11 @@ x install sing-box
 
 ## Code insight
 
-Total: **191,272** lines of code across **1207** files in the top 5 languages.
+Total: **191,307** lines of code across **1209** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 168,057 | 3,460 | 17,206 | 1176 |
+| Go | 168,092 | 3,463 | 17,214 | 1178 |
 | Json | 18,221 | 0 | 0 | 21 |
 | Bash | 1,289 | 41 | 250 | 1 |
 | ObjectiveC | 1,195 | 3 | 88 | 4 |
@@ -32,200 +32,200 @@ Total: **191,272** lines of code across **1207** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.15.0-alpha.3` (2026-08-31)
-- **Last commit**: 2026-09-13
+- **Latest**: `v1.15.0-alpha.4` (2026-09-15)
+- **Last commit**: 2026-09-14
 - **Assets in release**: 167
 
 ## Popularity
 
-- **Stars**: 37,967 · **Forks**: 4,575 · **Open issues**: 3,379 · **Contributors**: 109
+- **Stars**: 38,005 · **Forks**: 4,585 · **Open issues**: 3,382 · **Contributors**: 109
 
 ## Totals (cumulative)
 
-- **Releases**: 594 · **Merged PRs**: 211 · **Open PRs**: 40 · **Closed issues**: 3083 · **Open issues**: 296 · **Commits**: 2736
+- **Releases**: 596 · **Merged PRs**: 211 · **Open PRs**: 40 · **Closed issues**: 3085 · **Open issues**: 297 · **Commits**: 2741
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 13 | 1 | 0 | 14 | 89 | 109 |
-| last60d | 2026-07-16 | 33 | 9 | 8 | 43 | 133 | 208 |
-| 90d | 2026-06-16 | 47 | 10 | 13 | 78 | 149 | 300 |
-| last180d | 2026-03-18 | 88 | 16 | 35 | 215 | 179 | 477 |
-| 360d | 2025-09-19 | 100 | 32 | 40 | 509 | 215 | 737 |
-| last720d | 2024-09-24 | 100 | 94 | 40 | 1450 | 277 | 1296 |
+| 30d | 2026-08-16 | 14 | 1 | 0 | 13 | 92 | 114 |
+| last60d | 2026-07-17 | 34 | 9 | 8 | 42 | 133 | 213 |
+| 90d | 2026-06-17 | 49 | 10 | 13 | 77 | 150 | 305 |
+| last180d | 2026-03-19 | 90 | 16 | 33 | 216 | 181 | 482 |
+| 360d | 2025-09-20 | 100 | 32 | 40 | 508 | 217 | 742 |
+| last720d | 2024-09-25 | 100 | 94 | 40 | 1450 | 277 | 1301 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [SFA-1.14.0-arm64-v8a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFA-1.14.0-arm64-v8a.apk) | 34.9 MiB | `other` |
-| [SFA-1.14.0-armeabi-v7a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFA-1.14.0-armeabi-v7a.apk) | 34.8 MiB | `other` |
-| [SFA-1.14.0-legacy-android-5-arm64-v8a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFA-1.14.0-legacy-android-5-arm64-v8a.apk) | 29.7 MiB | `other` |
-| [SFA-1.14.0-legacy-android-5-armeabi-v7a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFA-1.14.0-legacy-android-5-armeabi-v7a.apk) | 30.2 MiB | `other` |
-| [SFA-1.14.0-legacy-android-5-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFA-1.14.0-legacy-android-5-universal.apk) | 101.7 MiB | `other` |
-| [SFA-1.14.0-legacy-android-5-x86.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFA-1.14.0-legacy-android-5-x86.apk) | 32.1 MiB | `other` |
-| [SFA-1.14.0-legacy-android-5-x86_64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFA-1.14.0-legacy-android-5-x86_64.apk) | 31.4 MiB | `other` |
-| [SFA-1.14.0-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFA-1.14.0-universal.apk) | 121.1 MiB | `other` |
-| [SFA-1.14.0-x86.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFA-1.14.0-x86.apk) | 37.7 MiB | `other` |
-| [SFA-1.14.0-x86_64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFA-1.14.0-x86_64.apk) | 36.7 MiB | `other` |
-| [SFA-version-metadata.json](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFA-version-metadata.json) | 54 B | `other` |
-| [SFI-1.14.0-iphoneos-arm64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFI-1.14.0-iphoneos-arm64.deb) | 28.1 MiB | `other` |
-| [SFL-1.14.0-aarch64.pkg.tar.zst](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFL-1.14.0-aarch64.pkg.tar.zst) | 111.3 MiB | `other` |
-| [SFL-1.14.0-aarch64.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFL-1.14.0-aarch64.rpm) | 97.1 MiB | `other` |
-| [SFL-1.14.0-amd64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFL-1.14.0-amd64.deb) | 106.1 MiB | `other` |
-| [SFL-1.14.0-arm64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFL-1.14.0-arm64.deb) | 97.1 MiB | `other` |
-| [SFL-1.14.0-armv7l.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFL-1.14.0-armv7l.deb) | 102.4 MiB | `other` |
-| [SFL-1.14.0-armv7l.pkg.tar.zst](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFL-1.14.0-armv7l.pkg.tar.zst) | 114.9 MiB | `other` |
-| [SFL-1.14.0-armv7l.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFL-1.14.0-armv7l.rpm) | 102.4 MiB | `other` |
-| [SFL-1.14.0-x64.pkg.tar.zst](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFL-1.14.0-x64.pkg.tar.zst) | 115.3 MiB | `other` |
-| [SFL-1.14.0-x86_64.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFL-1.14.0-x86_64.rpm) | 106.1 MiB | `other` |
-| [SFM-1.14.0-Apple.pkg](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFM-1.14.0-Apple.pkg) | 46.4 MiB | `other` |
-| [SFM-1.14.0-Intel.pkg](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFM-1.14.0-Intel.pkg) | 54.2 MiB | `other` |
-| [SFM-1.14.0-Universal.pkg](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFM-1.14.0-Universal.pkg) | 97.5 MiB | `other` |
-| [SFM-1.14.0.dSYMs.zip](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFM-1.14.0.dSYMs.zip) | 55.4 MiB | `other` |
-| [SFW-1.14.0-arm64.exe](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFW-1.14.0-arm64.exe) | 111.3 MiB | `other` |
-| [SFW-1.14.0-x64.exe](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFW-1.14.0-x64.exe) | 106.4 MiB | `other` |
-| [SFW-1.14.0-x86.exe](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/SFW-1.14.0-x86.exe) | 92.9 MiB | `other` |
-| [sing-box-1.14.0-android-386.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-android-386.tar.gz) | 27.1 MiB | `native/unknown` |
-| [sing-box-1.14.0-android-amd64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-android-amd64.tar.gz) | 26.2 MiB | `native/linux/x64` |
-| [sing-box-1.14.0-android-arm.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-android-arm.tar.gz) | 24.9 MiB | `native/linux/arm` |
-| [sing-box-1.14.0-android-arm64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-android-arm64.tar.gz) | 24.4 MiB | `native/linux/arm64` |
-| [sing-box-1.14.0-darwin-amd64-legacy-macos-10.13.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-darwin-amd64-legacy-macos-10.13.tar.gz) | 25.1 MiB | `native/darwin/x64` |
-| [sing-box-1.14.0-darwin-amd64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-darwin-amd64.tar.gz) | 30.0 MiB | `native/darwin/x64` |
-| [sing-box-1.14.0-darwin-arm64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-darwin-arm64.tar.gz) | 27.8 MiB | `native/darwin/arm64` |
-| [sing-box-1.14.0-linux-386-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-386-glibc.tar.gz) | 29.7 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-386-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-386-musl.tar.gz) | 29.7 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-386-softfloat.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-386-softfloat.tar.gz) | 24.6 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-386.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-386.tar.gz) | 24.6 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-amd64-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-amd64-glibc.tar.gz) | 30.9 MiB | `native/linux/x64` |
-| [sing-box-1.14.0-linux-amd64-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-amd64-musl.tar.gz) | 31.0 MiB | `native/linux/x64/musl` |
-| [sing-box-1.14.0-linux-amd64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-amd64.tar.gz) | 30.2 MiB | `native/linux/x64` |
-| [sing-box-1.14.0-linux-arm64-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-arm64-glibc.tar.gz) | 28.3 MiB | `native/linux/arm64` |
-| [sing-box-1.14.0-linux-arm64-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-arm64-musl.tar.gz) | 28.3 MiB | `native/linux/arm64/musl` |
-| [sing-box-1.14.0-linux-arm64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-arm64.tar.gz) | 27.7 MiB | `native/linux/arm64` |
-| [sing-box-1.14.0-linux-armv5.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-armv5.tar.gz) | 24.1 MiB | `native/linux/arm` |
-| [sing-box-1.14.0-linux-armv6.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-armv6.tar.gz) | 24.1 MiB | `native/linux/arm` |
-| [sing-box-1.14.0-linux-armv7-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-armv7-glibc.tar.gz) | 28.4 MiB | `native/linux/arm` |
-| [sing-box-1.14.0-linux-armv7-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-armv7-musl.tar.gz) | 28.5 MiB | `native/linux/arm/musl` |
-| [sing-box-1.14.0-linux-armv7.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-armv7.tar.gz) | 24.1 MiB | `native/linux/arm` |
-| [sing-box-1.14.0-linux-loong64-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-loong64-glibc.tar.gz) | 29.9 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-loong64-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-loong64-musl.tar.gz) | 29.9 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-loong64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-loong64.tar.gz) | 24.9 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-mips-softfloat.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-mips-softfloat.tar.gz) | 23.4 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-mips64-softfloat.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-mips64-softfloat.tar.gz) | 22.8 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-mips64le-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-mips64le-glibc.tar.gz) | 27.6 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-mips64le-softfloat.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-mips64le-softfloat.tar.gz) | 22.3 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-mips64le.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-mips64le.tar.gz) | 22.2 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-mipsle-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-mipsle-glibc.tar.gz) | 28.7 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-mipsle-softfloat-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-mipsle-softfloat-musl.tar.gz) | 28.7 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-mipsle-softfloat.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-mipsle-softfloat.tar.gz) | 22.9 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-mipsle.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-mipsle.tar.gz) | 22.9 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-ppc64le.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-ppc64le.tar.gz) | 23.7 MiB | `native/unknown` |
-| [sing-box-1.14.0-linux-riscv64-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-riscv64-glibc.tar.gz) | 29.1 MiB | `native/linux/riscv64` |
-| [sing-box-1.14.0-linux-riscv64-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-riscv64-musl.tar.gz) | 29.1 MiB | `native/linux/riscv64/musl` |
-| [sing-box-1.14.0-linux-riscv64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-riscv64.tar.gz) | 24.4 MiB | `native/linux/riscv64` |
-| [sing-box-1.14.0-linux-s390x.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-linux-s390x.tar.gz) | 25.5 MiB | `native/unknown` |
-| [sing-box-1.14.0-windows-386-legacy-windows-7.zip](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-windows-386-legacy-windows-7.zip) | 24.9 MiB | `native/win/x64` |
-| [sing-box-1.14.0-windows-386.zip](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-windows-386.zip) | 25.4 MiB | `native/win/x64` |
-| [sing-box-1.14.0-windows-amd64-legacy-windows-7.zip](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-windows-amd64-legacy-windows-7.zip) | 26.2 MiB | `native/win/x64` |
-| [sing-box-1.14.0-windows-amd64.zip](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-windows-amd64.zip) | 31.3 MiB | `native/win/x64` |
-| [sing-box-1.14.0-windows-arm64.zip](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box-1.14.0-windows-arm64.zip) | 28.0 MiB | `native/win/arm64` |
-| [sing-box_1.14.0_linux_aarch64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_aarch64.apk) | 28.1 MiB | `native/linux/arm64` |
-| [sing-box_1.14.0_linux_aarch64.pkg.tar.zst](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_aarch64.pkg.tar.zst) | 27.2 MiB | `native/linux/arm64` |
-| [sing-box_1.14.0_linux_aarch64.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_aarch64.rpm) | 28.1 MiB | `native/linux/arm64` |
-| [sing-box_1.14.0_linux_amd64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_amd64.deb) | 30.8 MiB | `native/linux/x64` |
-| [sing-box_1.14.0_linux_arm64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_arm64.deb) | 28.2 MiB | `native/linux/arm64` |
-| [sing-box_1.14.0_linux_armel.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_armel.deb) | 24.0 MiB | `native/linux/arm` |
-| [sing-box_1.14.0_linux_armhf.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_armhf.deb) | 28.3 MiB | `native/linux/arm` |
-| [sing-box_1.14.0_linux_armv6hl.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_armv6hl.rpm) | 23.9 MiB | `native/linux/arm` |
-| [sing-box_1.14.0_linux_armv7.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_armv7.apk) | 28.2 MiB | `native/linux/arm` |
-| [sing-box_1.14.0_linux_armv7hl.pkg.tar.zst](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_armv7hl.pkg.tar.zst) | 27.5 MiB | `native/linux/arm` |
-| [sing-box_1.14.0_linux_armv7hl.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_armv7hl.rpm) | 28.2 MiB | `native/linux/arm` |
-| [sing-box_1.14.0_linux_i386.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_i386.deb) | 29.5 MiB | `native/linux/x86` |
-| [sing-box_1.14.0_linux_i386.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_i386.rpm) | 29.4 MiB | `native/linux/x86` |
-| [sing-box_1.14.0_linux_loongarch64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_loongarch64.apk) | 29.6 MiB | `other` |
-| [sing-box_1.14.0_linux_loongarch64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_loongarch64.deb) | 29.7 MiB | `other` |
-| [sing-box_1.14.0_linux_loongarch64.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_loongarch64.rpm) | 29.6 MiB | `other` |
-| [sing-box_1.14.0_linux_mips64el.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_mips64el.deb) | 27.4 MiB | `other` |
-| [sing-box_1.14.0_linux_mips64el.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_mips64el.rpm) | 27.2 MiB | `other` |
-| [sing-box_1.14.0_linux_mipsel.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_mipsel.deb) | 28.5 MiB | `other` |
-| [sing-box_1.14.0_linux_mipsel.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_mipsel.rpm) | 28.3 MiB | `other` |
-| [sing-box_1.14.0_linux_ppc64el.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_ppc64el.deb) | 23.5 MiB | `runtime/deb/ppc64el` |
-| [sing-box_1.14.0_linux_ppc64le.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_ppc64le.rpm) | 23.4 MiB | `other` |
-| [sing-box_1.14.0_linux_riscv64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_riscv64.apk) | 28.9 MiB | `native/linux/riscv64` |
-| [sing-box_1.14.0_linux_riscv64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_riscv64.deb) | 29.0 MiB | `native/linux/riscv64` |
-| [sing-box_1.14.0_linux_riscv64.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_riscv64.rpm) | 28.9 MiB | `native/linux/riscv64` |
-| [sing-box_1.14.0_linux_s390x.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_s390x.deb) | 25.1 MiB | `runtime/deb/s390x` |
-| [sing-box_1.14.0_linux_s390x.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_s390x.rpm) | 25.0 MiB | `other` |
-| [sing-box_1.14.0_linux_x86.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_x86.apk) | 29.4 MiB | `other` |
-| [sing-box_1.14.0_linux_x86_64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_x86_64.apk) | 30.7 MiB | `native/linux/x64` |
-| [sing-box_1.14.0_linux_x86_64.pkg.tar.zst](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_x86_64.pkg.tar.zst) | 30.0 MiB | `native/linux/x64` |
-| [sing-box_1.14.0_linux_x86_64.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_linux_x86_64.rpm) | 30.7 MiB | `native/linux/x64` |
-| [sing-box_1.14.0_openwrt_aarch64_cortex-a53.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_aarch64_cortex-a53.apk) | 28.1 MiB | `other` |
-| [sing-box_1.14.0_openwrt_aarch64_cortex-a53.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_aarch64_cortex-a53.ipk) | 28.1 MiB | `other` |
-| [sing-box_1.14.0_openwrt_aarch64_cortex-a72.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_aarch64_cortex-a72.apk) | 28.1 MiB | `other` |
-| [sing-box_1.14.0_openwrt_aarch64_cortex-a72.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_aarch64_cortex-a72.ipk) | 28.1 MiB | `other` |
-| [sing-box_1.14.0_openwrt_aarch64_cortex-a76.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_aarch64_cortex-a76.apk) | 28.1 MiB | `other` |
-| [sing-box_1.14.0_openwrt_aarch64_cortex-a76.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_aarch64_cortex-a76.ipk) | 28.1 MiB | `other` |
-| [sing-box_1.14.0_openwrt_aarch64_generic.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_aarch64_generic.apk) | 28.1 MiB | `other` |
-| [sing-box_1.14.0_openwrt_aarch64_generic.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_aarch64_generic.ipk) | 28.1 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_arm1176jzf-s_vfp.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_arm1176jzf-s_vfp.apk) | 23.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_arm1176jzf-s_vfp.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_arm1176jzf-s_vfp.ipk) | 23.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_arm926ej-s.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_arm926ej-s.apk) | 23.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_arm926ej-s.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_arm926ej-s.ipk) | 23.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a15_neon-vfpv4.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a15_neon-vfpv4.apk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a15_neon-vfpv4.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a15_neon-vfpv4.ipk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a5_vfpv4.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a5_vfpv4.apk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a5_vfpv4.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a5_vfpv4.ipk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a7.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a7.apk) | 23.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a7.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a7.ipk) | 23.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a7_neon-vfpv4.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a7_neon-vfpv4.apk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a7_neon-vfpv4.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a7_neon-vfpv4.ipk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a7_vfpv4.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a7_vfpv4.apk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a7_vfpv4.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a7_vfpv4.ipk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a8_vfpv3.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a8_vfpv3.apk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a8_vfpv3.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a8_vfpv3.ipk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a9.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a9.apk) | 23.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a9.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a9.ipk) | 23.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a9_neon.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a9_neon.apk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a9_neon.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a9_neon.ipk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a9_vfpv3-d16.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a9_vfpv3-d16.apk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_cortex-a9_vfpv3-d16.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_cortex-a9_vfpv3-d16.ipk) | 28.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_fa526.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_fa526.apk) | 23.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_fa526.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_fa526.ipk) | 23.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_xscale.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_xscale.apk) | 23.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_arm_xscale.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_arm_xscale.ipk) | 23.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_i386_pentium-mmx.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_i386_pentium-mmx.apk) | 24.3 MiB | `other` |
-| [sing-box_1.14.0_openwrt_i386_pentium-mmx.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_i386_pentium-mmx.ipk) | 24.3 MiB | `other` |
-| [sing-box_1.14.0_openwrt_i386_pentium4.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_i386_pentium4.apk) | 29.4 MiB | `other` |
-| [sing-box_1.14.0_openwrt_i386_pentium4.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_i386_pentium4.ipk) | 29.4 MiB | `other` |
-| [sing-box_1.14.0_openwrt_loongarch64_generic.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_loongarch64_generic.apk) | 29.6 MiB | `other` |
-| [sing-box_1.14.0_openwrt_loongarch64_generic.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_loongarch64_generic.ipk) | 29.5 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mips64el_mips64r2.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mips64el_mips64r2.apk) | 22.0 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mips64el_mips64r2.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mips64el_mips64r2.ipk) | 22.0 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mips64_mips64r2.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mips64_mips64r2.apk) | 22.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mips64_mips64r2.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mips64_mips64r2.ipk) | 22.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mips64_octeonplus.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mips64_octeonplus.apk) | 22.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mips64_octeonplus.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mips64_octeonplus.ipk) | 22.2 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mipsel_24kc.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mipsel_24kc.apk) | 28.3 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mipsel_24kc.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mipsel_24kc.ipk) | 28.4 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mipsel_24kc_24kf.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mipsel_24kc_24kf.apk) | 22.6 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mipsel_24kc_24kf.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mipsel_24kc_24kf.ipk) | 22.7 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mipsel_74kc.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mipsel_74kc.apk) | 28.3 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mipsel_74kc.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mipsel_74kc.ipk) | 28.4 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mipsel_mips32.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mipsel_mips32.apk) | 28.3 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mipsel_mips32.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mipsel_mips32.ipk) | 28.4 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mips_24kc.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mips_24kc.apk) | 22.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mips_24kc.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mips_24kc.ipk) | 22.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mips_4kec.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mips_4kec.apk) | 22.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mips_4kec.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mips_4kec.ipk) | 22.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mips_mips32.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mips_mips32.apk) | 22.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_mips_mips32.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_mips_mips32.ipk) | 22.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_riscv64_generic.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_riscv64_generic.apk) | 28.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_riscv64_generic.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_riscv64_generic.ipk) | 28.9 MiB | `other` |
-| [sing-box_1.14.0_openwrt_x86_64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_x86_64.apk) | 30.7 MiB | `other` |
-| [sing-box_1.14.0_openwrt_x86_64.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.0/sing-box_1.14.0_openwrt_x86_64.ipk) | 30.7 MiB | `other` |
+| [SFA-1.14.1-arm64-v8a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFA-1.14.1-arm64-v8a.apk) | 34.9 MiB | `other` |
+| [SFA-1.14.1-armeabi-v7a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFA-1.14.1-armeabi-v7a.apk) | 34.8 MiB | `other` |
+| [SFA-1.14.1-legacy-android-5-arm64-v8a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFA-1.14.1-legacy-android-5-arm64-v8a.apk) | 29.7 MiB | `other` |
+| [SFA-1.14.1-legacy-android-5-armeabi-v7a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFA-1.14.1-legacy-android-5-armeabi-v7a.apk) | 30.3 MiB | `other` |
+| [SFA-1.14.1-legacy-android-5-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFA-1.14.1-legacy-android-5-universal.apk) | 101.8 MiB | `other` |
+| [SFA-1.14.1-legacy-android-5-x86.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFA-1.14.1-legacy-android-5-x86.apk) | 32.2 MiB | `other` |
+| [SFA-1.14.1-legacy-android-5-x86_64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFA-1.14.1-legacy-android-5-x86_64.apk) | 31.4 MiB | `other` |
+| [SFA-1.14.1-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFA-1.14.1-universal.apk) | 121.3 MiB | `other` |
+| [SFA-1.14.1-x86.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFA-1.14.1-x86.apk) | 37.8 MiB | `other` |
+| [SFA-1.14.1-x86_64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFA-1.14.1-x86_64.apk) | 36.7 MiB | `other` |
+| [SFA-version-metadata.json](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFA-version-metadata.json) | 54 B | `other` |
+| [SFI-1.14.1-iphoneos-arm64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFI-1.14.1-iphoneos-arm64.deb) | 28.3 MiB | `other` |
+| [SFL-1.14.1-aarch64.pkg.tar.zst](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFL-1.14.1-aarch64.pkg.tar.zst) | 111.7 MiB | `other` |
+| [SFL-1.14.1-aarch64.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFL-1.14.1-aarch64.rpm) | 97.6 MiB | `other` |
+| [SFL-1.14.1-amd64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFL-1.14.1-amd64.deb) | 106.2 MiB | `other` |
+| [SFL-1.14.1-arm64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFL-1.14.1-arm64.deb) | 97.6 MiB | `other` |
+| [SFL-1.14.1-armv7l.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFL-1.14.1-armv7l.deb) | 102.4 MiB | `other` |
+| [SFL-1.14.1-armv7l.pkg.tar.zst](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFL-1.14.1-armv7l.pkg.tar.zst) | 115.0 MiB | `other` |
+| [SFL-1.14.1-armv7l.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFL-1.14.1-armv7l.rpm) | 102.4 MiB | `other` |
+| [SFL-1.14.1-x64.pkg.tar.zst](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFL-1.14.1-x64.pkg.tar.zst) | 115.3 MiB | `other` |
+| [SFL-1.14.1-x86_64.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFL-1.14.1-x86_64.rpm) | 106.2 MiB | `other` |
+| [SFM-1.14.1-Apple.pkg](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFM-1.14.1-Apple.pkg) | 45.8 MiB | `other` |
+| [SFM-1.14.1-Intel.pkg](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFM-1.14.1-Intel.pkg) | 53.7 MiB | `other` |
+| [SFM-1.14.1-Universal.pkg](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFM-1.14.1-Universal.pkg) | 97.4 MiB | `other` |
+| [SFM-1.14.1.dSYMs.zip](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFM-1.14.1.dSYMs.zip) | 55.4 MiB | `other` |
+| [SFW-1.14.1-arm64.exe](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFW-1.14.1-arm64.exe) | 111.2 MiB | `other` |
+| [SFW-1.14.1-x64.exe](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFW-1.14.1-x64.exe) | 109.5 MiB | `other` |
+| [SFW-1.14.1-x86.exe](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/SFW-1.14.1-x86.exe) | 92.9 MiB | `other` |
+| [sing-box-1.14.1-android-386.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-android-386.tar.gz) | 27.1 MiB | `native/unknown` |
+| [sing-box-1.14.1-android-amd64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-android-amd64.tar.gz) | 26.2 MiB | `native/linux/x64` |
+| [sing-box-1.14.1-android-arm.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-android-arm.tar.gz) | 24.9 MiB | `native/linux/arm` |
+| [sing-box-1.14.1-android-arm64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-android-arm64.tar.gz) | 24.4 MiB | `native/linux/arm64` |
+| [sing-box-1.14.1-darwin-amd64-legacy-macos-10.13.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-darwin-amd64-legacy-macos-10.13.tar.gz) | 25.1 MiB | `native/darwin/x64` |
+| [sing-box-1.14.1-darwin-amd64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-darwin-amd64.tar.gz) | 30.0 MiB | `native/darwin/x64` |
+| [sing-box-1.14.1-darwin-arm64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-darwin-arm64.tar.gz) | 27.8 MiB | `native/darwin/arm64` |
+| [sing-box-1.14.1-linux-386-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-386-glibc.tar.gz) | 29.7 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-386-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-386-musl.tar.gz) | 29.7 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-386-softfloat.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-386-softfloat.tar.gz) | 24.6 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-386.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-386.tar.gz) | 24.6 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-amd64-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-amd64-glibc.tar.gz) | 31.0 MiB | `native/linux/x64` |
+| [sing-box-1.14.1-linux-amd64-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-amd64-musl.tar.gz) | 31.0 MiB | `native/linux/x64/musl` |
+| [sing-box-1.14.1-linux-amd64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-amd64.tar.gz) | 30.2 MiB | `native/linux/x64` |
+| [sing-box-1.14.1-linux-arm64-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-arm64-glibc.tar.gz) | 28.3 MiB | `native/linux/arm64` |
+| [sing-box-1.14.1-linux-arm64-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-arm64-musl.tar.gz) | 28.3 MiB | `native/linux/arm64/musl` |
+| [sing-box-1.14.1-linux-arm64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-arm64.tar.gz) | 27.7 MiB | `native/linux/arm64` |
+| [sing-box-1.14.1-linux-armv5.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-armv5.tar.gz) | 24.2 MiB | `native/linux/arm` |
+| [sing-box-1.14.1-linux-armv6.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-armv6.tar.gz) | 24.2 MiB | `native/linux/arm` |
+| [sing-box-1.14.1-linux-armv7-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-armv7-glibc.tar.gz) | 28.5 MiB | `native/linux/arm` |
+| [sing-box-1.14.1-linux-armv7-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-armv7-musl.tar.gz) | 28.5 MiB | `native/linux/arm/musl` |
+| [sing-box-1.14.1-linux-armv7.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-armv7.tar.gz) | 24.1 MiB | `native/linux/arm` |
+| [sing-box-1.14.1-linux-loong64-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-loong64-glibc.tar.gz) | 29.9 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-loong64-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-loong64-musl.tar.gz) | 29.9 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-loong64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-loong64.tar.gz) | 25.0 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-mips-softfloat.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-mips-softfloat.tar.gz) | 23.4 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-mips64-softfloat.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-mips64-softfloat.tar.gz) | 22.8 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-mips64le-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-mips64le-glibc.tar.gz) | 27.6 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-mips64le-softfloat.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-mips64le-softfloat.tar.gz) | 22.3 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-mips64le.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-mips64le.tar.gz) | 22.3 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-mipsle-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-mipsle-glibc.tar.gz) | 28.7 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-mipsle-softfloat-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-mipsle-softfloat-musl.tar.gz) | 28.7 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-mipsle-softfloat.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-mipsle-softfloat.tar.gz) | 22.9 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-mipsle.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-mipsle.tar.gz) | 22.9 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-ppc64le.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-ppc64le.tar.gz) | 23.7 MiB | `native/unknown` |
+| [sing-box-1.14.1-linux-riscv64-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-riscv64-glibc.tar.gz) | 29.1 MiB | `native/linux/riscv64` |
+| [sing-box-1.14.1-linux-riscv64-musl.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-riscv64-musl.tar.gz) | 29.1 MiB | `native/linux/riscv64/musl` |
+| [sing-box-1.14.1-linux-riscv64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-riscv64.tar.gz) | 24.5 MiB | `native/linux/riscv64` |
+| [sing-box-1.14.1-linux-s390x.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-linux-s390x.tar.gz) | 25.5 MiB | `native/unknown` |
+| [sing-box-1.14.1-windows-386-legacy-windows-7.zip](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-windows-386-legacy-windows-7.zip) | 25.0 MiB | `native/win/x64` |
+| [sing-box-1.14.1-windows-386.zip](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-windows-386.zip) | 25.4 MiB | `native/win/x64` |
+| [sing-box-1.14.1-windows-amd64-legacy-windows-7.zip](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-windows-amd64-legacy-windows-7.zip) | 26.3 MiB | `native/win/x64` |
+| [sing-box-1.14.1-windows-amd64.zip](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-windows-amd64.zip) | 31.3 MiB | `native/win/x64` |
+| [sing-box-1.14.1-windows-arm64.zip](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box-1.14.1-windows-arm64.zip) | 28.0 MiB | `native/win/arm64` |
+| [sing-box_1.14.1_linux_aarch64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_aarch64.apk) | 28.1 MiB | `native/linux/arm64` |
+| [sing-box_1.14.1_linux_aarch64.pkg.tar.zst](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_aarch64.pkg.tar.zst) | 27.3 MiB | `native/linux/arm64` |
+| [sing-box_1.14.1_linux_aarch64.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_aarch64.rpm) | 28.1 MiB | `native/linux/arm64` |
+| [sing-box_1.14.1_linux_amd64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_amd64.deb) | 30.8 MiB | `native/linux/x64` |
+| [sing-box_1.14.1_linux_arm64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_arm64.deb) | 28.2 MiB | `native/linux/arm64` |
+| [sing-box_1.14.1_linux_armel.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_armel.deb) | 24.0 MiB | `native/linux/arm` |
+| [sing-box_1.14.1_linux_armhf.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_armhf.deb) | 28.3 MiB | `native/linux/arm` |
+| [sing-box_1.14.1_linux_armv6hl.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_armv6hl.rpm) | 23.9 MiB | `native/linux/arm` |
+| [sing-box_1.14.1_linux_armv7.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_armv7.apk) | 28.2 MiB | `native/linux/arm` |
+| [sing-box_1.14.1_linux_armv7hl.pkg.tar.zst](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_armv7hl.pkg.tar.zst) | 27.5 MiB | `native/linux/arm` |
+| [sing-box_1.14.1_linux_armv7hl.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_armv7hl.rpm) | 28.2 MiB | `native/linux/arm` |
+| [sing-box_1.14.1_linux_i386.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_i386.deb) | 29.5 MiB | `native/linux/x86` |
+| [sing-box_1.14.1_linux_i386.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_i386.rpm) | 29.4 MiB | `native/linux/x86` |
+| [sing-box_1.14.1_linux_loongarch64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_loongarch64.apk) | 29.6 MiB | `other` |
+| [sing-box_1.14.1_linux_loongarch64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_loongarch64.deb) | 29.7 MiB | `other` |
+| [sing-box_1.14.1_linux_loongarch64.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_loongarch64.rpm) | 29.7 MiB | `other` |
+| [sing-box_1.14.1_linux_mips64el.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_mips64el.deb) | 27.4 MiB | `other` |
+| [sing-box_1.14.1_linux_mips64el.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_mips64el.rpm) | 27.3 MiB | `other` |
+| [sing-box_1.14.1_linux_mipsel.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_mipsel.deb) | 28.5 MiB | `other` |
+| [sing-box_1.14.1_linux_mipsel.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_mipsel.rpm) | 28.4 MiB | `other` |
+| [sing-box_1.14.1_linux_ppc64el.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_ppc64el.deb) | 23.5 MiB | `runtime/deb/ppc64el` |
+| [sing-box_1.14.1_linux_ppc64le.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_ppc64le.rpm) | 23.4 MiB | `other` |
+| [sing-box_1.14.1_linux_riscv64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_riscv64.apk) | 28.9 MiB | `native/linux/riscv64` |
+| [sing-box_1.14.1_linux_riscv64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_riscv64.deb) | 29.0 MiB | `native/linux/riscv64` |
+| [sing-box_1.14.1_linux_riscv64.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_riscv64.rpm) | 28.9 MiB | `native/linux/riscv64` |
+| [sing-box_1.14.1_linux_s390x.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_s390x.deb) | 25.1 MiB | `runtime/deb/s390x` |
+| [sing-box_1.14.1_linux_s390x.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_s390x.rpm) | 25.0 MiB | `other` |
+| [sing-box_1.14.1_linux_x86.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_x86.apk) | 29.4 MiB | `other` |
+| [sing-box_1.14.1_linux_x86_64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_x86_64.apk) | 30.7 MiB | `native/linux/x64` |
+| [sing-box_1.14.1_linux_x86_64.pkg.tar.zst](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_x86_64.pkg.tar.zst) | 30.0 MiB | `native/linux/x64` |
+| [sing-box_1.14.1_linux_x86_64.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_linux_x86_64.rpm) | 30.7 MiB | `native/linux/x64` |
+| [sing-box_1.14.1_openwrt_aarch64_cortex-a53.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_aarch64_cortex-a53.apk) | 28.1 MiB | `other` |
+| [sing-box_1.14.1_openwrt_aarch64_cortex-a53.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_aarch64_cortex-a53.ipk) | 28.1 MiB | `other` |
+| [sing-box_1.14.1_openwrt_aarch64_cortex-a72.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_aarch64_cortex-a72.apk) | 28.1 MiB | `other` |
+| [sing-box_1.14.1_openwrt_aarch64_cortex-a72.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_aarch64_cortex-a72.ipk) | 28.1 MiB | `other` |
+| [sing-box_1.14.1_openwrt_aarch64_cortex-a76.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_aarch64_cortex-a76.apk) | 28.1 MiB | `other` |
+| [sing-box_1.14.1_openwrt_aarch64_cortex-a76.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_aarch64_cortex-a76.ipk) | 28.1 MiB | `other` |
+| [sing-box_1.14.1_openwrt_aarch64_generic.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_aarch64_generic.apk) | 28.1 MiB | `other` |
+| [sing-box_1.14.1_openwrt_aarch64_generic.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_aarch64_generic.ipk) | 28.1 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_arm1176jzf-s_vfp.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_arm1176jzf-s_vfp.apk) | 23.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_arm1176jzf-s_vfp.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_arm1176jzf-s_vfp.ipk) | 23.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_arm926ej-s.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_arm926ej-s.apk) | 23.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_arm926ej-s.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_arm926ej-s.ipk) | 23.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a15_neon-vfpv4.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a15_neon-vfpv4.apk) | 28.2 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a15_neon-vfpv4.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a15_neon-vfpv4.ipk) | 28.3 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a5_vfpv4.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a5_vfpv4.apk) | 28.2 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a5_vfpv4.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a5_vfpv4.ipk) | 28.3 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a7.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a7.apk) | 23.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a7.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a7.ipk) | 23.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a7_neon-vfpv4.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a7_neon-vfpv4.apk) | 28.2 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a7_neon-vfpv4.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a7_neon-vfpv4.ipk) | 28.3 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a7_vfpv4.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a7_vfpv4.apk) | 28.2 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a7_vfpv4.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a7_vfpv4.ipk) | 28.3 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a8_vfpv3.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a8_vfpv3.apk) | 28.2 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a8_vfpv3.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a8_vfpv3.ipk) | 28.3 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a9.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a9.apk) | 23.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a9.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a9.ipk) | 23.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a9_neon.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a9_neon.apk) | 28.2 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a9_neon.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a9_neon.ipk) | 28.3 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a9_vfpv3-d16.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a9_vfpv3-d16.apk) | 28.2 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_cortex-a9_vfpv3-d16.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_cortex-a9_vfpv3-d16.ipk) | 28.3 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_fa526.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_fa526.apk) | 23.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_fa526.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_fa526.ipk) | 23.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_xscale.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_xscale.apk) | 23.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_arm_xscale.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_arm_xscale.ipk) | 23.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_i386_pentium-mmx.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_i386_pentium-mmx.apk) | 24.3 MiB | `other` |
+| [sing-box_1.14.1_openwrt_i386_pentium-mmx.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_i386_pentium-mmx.ipk) | 24.3 MiB | `other` |
+| [sing-box_1.14.1_openwrt_i386_pentium4.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_i386_pentium4.apk) | 29.4 MiB | `other` |
+| [sing-box_1.14.1_openwrt_i386_pentium4.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_i386_pentium4.ipk) | 29.5 MiB | `other` |
+| [sing-box_1.14.1_openwrt_loongarch64_generic.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_loongarch64_generic.apk) | 29.6 MiB | `other` |
+| [sing-box_1.14.1_openwrt_loongarch64_generic.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_loongarch64_generic.ipk) | 29.6 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mips64el_mips64r2.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mips64el_mips64r2.apk) | 22.0 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mips64el_mips64r2.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mips64el_mips64r2.ipk) | 22.0 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mips64_mips64r2.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mips64_mips64r2.apk) | 22.2 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mips64_mips64r2.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mips64_mips64r2.ipk) | 22.2 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mips64_octeonplus.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mips64_octeonplus.apk) | 22.2 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mips64_octeonplus.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mips64_octeonplus.ipk) | 22.2 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mipsel_24kc.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mipsel_24kc.apk) | 28.4 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mipsel_24kc.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mipsel_24kc.ipk) | 28.4 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mipsel_24kc_24kf.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mipsel_24kc_24kf.apk) | 22.7 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mipsel_24kc_24kf.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mipsel_24kc_24kf.ipk) | 22.7 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mipsel_74kc.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mipsel_74kc.apk) | 28.4 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mipsel_74kc.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mipsel_74kc.ipk) | 28.4 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mipsel_mips32.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mipsel_mips32.apk) | 28.4 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mipsel_mips32.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mipsel_mips32.ipk) | 28.4 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mips_24kc.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mips_24kc.apk) | 22.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mips_24kc.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mips_24kc.ipk) | 22.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mips_4kec.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mips_4kec.apk) | 22.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mips_4kec.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mips_4kec.ipk) | 22.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mips_mips32.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mips_mips32.apk) | 22.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_mips_mips32.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_mips_mips32.ipk) | 22.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_riscv64_generic.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_riscv64_generic.apk) | 28.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_riscv64_generic.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_riscv64_generic.ipk) | 28.9 MiB | `other` |
+| [sing-box_1.14.1_openwrt_x86_64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_x86_64.apk) | 30.7 MiB | `other` |
+| [sing-box_1.14.1_openwrt_x86_64.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.1/sing-box_1.14.1_openwrt_x86_64.ipk) | 30.7 MiB | `other` |
 
 ## Improve this data
 
@@ -236,4 +236,4 @@ Install metadata for sing-box lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:08:02Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:56:03Z._
