@@ -14,11 +14,11 @@ x install sing-box
 
 ## Code insight
 
-Total: **193,440** lines of code across **1216** files in the top 5 languages.
+Total: **193,450** lines of code across **1216** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 170,005 | 3,501 | 17,328 | 1186 |
+| Go | 170,015 | 3,500 | 17,330 | 1186 |
 | Json | 18,438 | 0 | 0 | 20 |
 | Bash | 1,289 | 41 | 250 | 1 |
 | ObjectiveC | 1,195 | 3 | 88 | 4 |
@@ -38,22 +38,22 @@ Total: **193,440** lines of code across **1216** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 38,160 · **Forks**: 4,621 · **Open issues**: 3,399 · **Contributors**: 109
+- **Stars**: 38,183 · **Forks**: 4,623 · **Open issues**: 3,402 · **Contributors**: 109
 
 ## Totals (cumulative)
 
-- **Releases**: 598 · **Merged PRs**: 211 · **Open PRs**: 40 · **Closed issues**: 3095 · **Open issues**: 304 · **Commits**: 2768
+- **Releases**: 598 · **Merged PRs**: 211 · **Open PRs**: 40 · **Closed issues**: 3096 · **Open issues**: 306 · **Commits**: 2770
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 14 | 0 | 0 | 16 | 92 | 113 |
-| last60d | 2026-07-22 | 33 | 7 | 6 | 44 | 139 | 208 |
-| 90d | 2026-06-22 | 49 | 10 | 13 | 80 | 159 | 324 |
-| last180d | 2026-03-24 | 90 | 16 | 33 | 219 | 187 | 496 |
-| 360d | 2025-09-25 | 100 | 31 | 40 | 512 | 224 | 765 |
-| last720d | 2024-09-30 | 100 | 94 | 40 | 1452 | 284 | 1328 |
+| 30d | 2026-08-22 | 14 | 0 | 0 | 15 | 95 | 115 |
+| last60d | 2026-07-23 | 32 | 7 | 6 | 42 | 138 | 210 |
+| 90d | 2026-06-23 | 49 | 10 | 13 | 80 | 161 | 326 |
+| last180d | 2026-03-25 | 88 | 16 | 33 | 217 | 187 | 498 |
+| 360d | 2025-09-26 | 100 | 31 | 40 | 513 | 226 | 767 |
+| last720d | 2024-10-01 | 100 | 94 | 40 | 1452 | 285 | 1330 |
 
 ## Release assets
 
@@ -236,4 +236,4 @@ Install metadata for sing-box lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:49:43Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:51:30Z._
