@@ -4,7 +4,7 @@
 
 The universal proxy platform
 
-[![x-cmd/install — sing-box Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sing-box.svg)](https://x-cmd.com/install/sing-box)
+[![x-cmd/install — sing-box Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/sing-box.svg)](https://x-cmd.com/install/sing-box)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install sing-box
 
 ## Code insight
 
-Total: **200,662** lines of code across **1248** files in the top 5 languages.
+Total: **201,063** lines of code across **1249** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 176,675 | 3,514 | 17,843 | 1218 |
-| Json | 18,988 | 0 | 0 | 20 |
+| Go | 176,992 | 3,514 | 17,874 | 1219 |
+| Json | 19,062 | 0 | 0 | 20 |
 | Bash | 1,289 | 41 | 250 | 1 |
-| ObjectiveC | 1,195 | 3 | 88 | 4 |
+| ObjectiveC | 1,201 | 3 | 88 | 4 |
 | Protobuf | 949 | 3 | 168 | 5 |
 
 ## Source
@@ -32,28 +32,28 @@ Total: **200,662** lines of code across **1248** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.15.0-alpha.6` (2026-09-15)
+- **Latest**: `v1.15.0-alpha.7` (2026-09-15)
 - **Last commit**: 2026-09-22
 - **Assets in release**: 167
 
 ## Popularity
 
-- **Stars**: 38,200 · **Forks**: 4,631 · **Open issues**: 3,405 · **Contributors**: 109
+- **Stars**: 38,224 · **Forks**: 4,638 · **Open issues**: 3,412 · **Contributors**: 109
 
 ## Totals (cumulative)
 
-- **Releases**: 598 · **Merged PRs**: 211 · **Open PRs**: 40 · **Closed issues**: 3097 · **Open issues**: 308 · **Commits**: 2779
+- **Releases**: 599 · **Merged PRs**: 211 · **Open PRs**: 40 · **Closed issues**: 3098 · **Open issues**: 314 · **Commits**: 2783
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 14 | 0 | 0 | 15 | 97 | 124 |
-| last60d | 2026-07-24 | 31 | 7 | 5 | 42 | 136 | 219 |
-| 90d | 2026-06-24 | 48 | 10 | 13 | 80 | 163 | 335 |
-| last180d | 2026-03-26 | 86 | 15 | 33 | 216 | 188 | 507 |
-| 360d | 2025-09-27 | 100 | 31 | 40 | 513 | 228 | 776 |
-| last720d | 2024-10-02 | 100 | 94 | 40 | 1453 | 287 | 1339 |
+| 30d | 2026-08-24 | 15 | 0 | 0 | 14 | 101 | 128 |
+| last60d | 2026-07-25 | 32 | 7 | 5 | 42 | 142 | 223 |
+| 90d | 2026-06-25 | 49 | 10 | 12 | 81 | 169 | 339 |
+| last180d | 2026-03-27 | 85 | 15 | 33 | 215 | 194 | 511 |
+| 360d | 2025-09-28 | 100 | 31 | 40 | 512 | 234 | 780 |
+| last720d | 2024-10-03 | 100 | 94 | 40 | 1452 | 293 | 1343 |
 
 ## Release assets
 
@@ -236,4 +236,4 @@ Install metadata for sing-box lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:53:44Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:56:33Z._
