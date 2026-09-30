@@ -14,11 +14,11 @@ x install sing-box
 
 ## Code insight
 
-Total: **201,452** lines of code across **1255** files in the top 5 languages.
+Total: **201,609** lines of code across **1256** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 177,534 | 3,525 | 17,948 | 1225 |
+| Go | 177,691 | 3,525 | 17,958 | 1226 |
 | Json | 18,909 | 0 | 0 | 20 |
 | Bash | 1,289 | 41 | 250 | 1 |
 | ObjectiveC | 1,201 | 3 | 88 | 4 |
@@ -33,27 +33,27 @@ Total: **201,452** lines of code across **1255** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.15.0-alpha.9` (2026-09-24)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-30
 - **Assets in release**: 167
 
 ## Popularity
 
-- **Stars**: 38,416 · **Forks**: 4,663 · **Open issues**: 3,435 · **Contributors**: 110
+- **Stars**: 38,444 · **Forks**: 4,662 · **Open issues**: 3,437 · **Contributors**: 110
 
 ## Totals (cumulative)
 
-- **Releases**: 602 · **Merged PRs**: 211 · **Open PRs**: 40 · **Closed issues**: 3120 · **Open issues**: 315 · **Commits**: 2808
+- **Releases**: 602 · **Merged PRs**: 211 · **Open PRs**: 40 · **Closed issues**: 3122 · **Open issues**: 315 · **Commits**: 2813
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 14 | 0 | 0 | 21 | 101 | 104 |
-| last60d | 2026-07-31 | 32 | 5 | 2 | 49 | 150 | 228 |
-| 90d | 2026-07-01 | 48 | 10 | 10 | 91 | 169 | 359 |
-| last180d | 2026-04-02 | 86 | 13 | 31 | 230 | 193 | 532 |
-| 360d | 2025-10-04 | 100 | 29 | 40 | 527 | 235 | 800 |
-| last720d | 2024-10-09 | 100 | 94 | 40 | 1465 | 291 | 1358 |
+| 30d | 2026-08-31 | 12 | 0 | 0 | 21 | 96 | 109 |
+| last60d | 2026-08-01 | 31 | 5 | 2 | 47 | 149 | 233 |
+| 90d | 2026-07-02 | 48 | 10 | 10 | 91 | 169 | 364 |
+| last180d | 2026-04-03 | 86 | 13 | 31 | 230 | 193 | 537 |
+| 360d | 2025-10-05 | 100 | 29 | 40 | 524 | 235 | 805 |
+| last720d | 2024-10-10 | 100 | 94 | 40 | 1465 | 291 | 1363 |
 
 ## Release assets
 
@@ -236,4 +236,4 @@ Install metadata for sing-box lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:24:38Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:14:04Z._
