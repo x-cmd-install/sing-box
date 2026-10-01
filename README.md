@@ -38,22 +38,22 @@ Total: **201,609** lines of code across **1256** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 38,444 · **Forks**: 4,662 · **Open issues**: 3,437 · **Contributors**: 110
+- **Stars**: 38,472 · **Forks**: 4,670 · **Open issues**: 3,439 · **Contributors**: 110
 
 ## Totals (cumulative)
 
-- **Releases**: 602 · **Merged PRs**: 211 · **Open PRs**: 40 · **Closed issues**: 3122 · **Open issues**: 315 · **Commits**: 2813
+- **Releases**: 602 · **Merged PRs**: 211 · **Open PRs**: 40 · **Closed issues**: 3123 · **Open issues**: 316 · **Commits**: 2813
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 12 | 0 | 0 | 21 | 96 | 109 |
-| last60d | 2026-08-01 | 31 | 5 | 2 | 47 | 149 | 233 |
-| 90d | 2026-07-02 | 48 | 10 | 10 | 91 | 169 | 364 |
-| last180d | 2026-04-03 | 86 | 13 | 31 | 230 | 193 | 537 |
-| 360d | 2025-10-05 | 100 | 29 | 40 | 524 | 235 | 805 |
-| last720d | 2024-10-10 | 100 | 94 | 40 | 1465 | 291 | 1363 |
+| 30d | 2026-09-01 | 11 | 0 | 0 | 19 | 91 | 109 |
+| last60d | 2026-08-02 | 31 | 4 | 2 | 46 | 149 | 233 |
+| 90d | 2026-07-03 | 48 | 10 | 10 | 91 | 170 | 364 |
+| last180d | 2026-04-04 | 86 | 13 | 31 | 231 | 194 | 537 |
+| 360d | 2025-10-06 | 100 | 29 | 40 | 524 | 236 | 805 |
+| last720d | 2024-10-11 | 100 | 94 | 40 | 1464 | 292 | 1363 |
 
 ## Release assets
 
@@ -236,4 +236,4 @@ Install metadata for sing-box lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:14:04Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:33:46Z._
