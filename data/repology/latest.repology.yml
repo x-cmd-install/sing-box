@@ -1,61 +1,14 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: sing-box
-  binname: sing-box
-  visiblename: sing-box
+- repo: stalix_dev
+  srcname: bin/sing/box
+  binname: bin/sing/box
+  visiblename: bin/sing/box
   version: 1.14.3
-  origversion: 1.14.3-3
-  status: newest
-  summary: The universal proxy platform
-  licenses:
-    - GPL-3.0-or-later
-    - LicenseRef-sing-box-exception
-- repo: aosc
-  srcname: app-proxy/sing-box
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.14.2
   origversion: null
   status: outdated
-  summary: A universal proxy platform
   maintainers:
-    - fallback-mnt-aosc@repology
+    - anton@samokhvalov.xyz
   categories:
-    - net
-- repo: nix_stable_24_05
-  srcname: sing-box
-  visiblename: sing-box
-  version: 1.8.14
-  origversion: null
-  status: outdated
-  summary: The universal proxy platform
-  maintainers:
-    - nickcao@nichi.co
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_stable_24_11
-  srcname: sing-box
-  visiblename: sing-box
-  version: 1.10.1
-  origversion: null
-  status: outdated
-  summary: Universal proxy platform
-  maintainers:
-    - nickcao@nichi.co
-  licenses:
-    - GPL-3.0-or-later
-- repo: arch
-  subrepo: extra
-  srcname: sing-box
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.14.3
-  origversion: 1.14.3-4
-  status: newest
-  summary: The universal proxy platform
-  licenses:
-    - GPL-3.0-or-later
-    - LicenseRef-sing-box-exception
+    - bin
 - repo: alpine_3_23
   subrepo: community
   srcname: sing-box
@@ -134,6 +87,19 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
+- repo: alpine_edge
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box-zsh-completion
+  visiblename: sing-box-zsh-completion
+  version: 1.13.21
+  origversion: 1.13.21-r0
+  status: outdated
+  summary: Zsh completions for sing-box
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
 - repo: alpine_3_24
   subrepo: community
   srcname: sing-box
@@ -173,18 +139,6 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: sing-box
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.14.0
-  origversion: 1.14.0-3
-  status: outdated
-  summary: The universal proxy platform
-  licenses:
-    - GPL-3.0-or-later
-    - LicenseRef-sing-box-exception
 - repo: alpine_3_24
   subrepo: community
   srcname: sing-box
@@ -211,18 +165,6 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
-- repo: nix_stable_25_05
-  srcname: sing-box
-  visiblename: sing-box
-  version: 1.11.15
-  origversion: null
-  status: outdated
-  summary: Universal proxy platform
-  maintainers:
-    - nickcao@nichi.co
-    - prc.zhao@outlook.com
-  licenses:
-    - GPL-3.0-or-later
 - repo: alpine_edge
   subrepo: community
   srcname: sing-box
@@ -284,19 +226,6 @@
   origversion: 1.13.21-r0
   status: outdated
   summary: The universal proxy platform (systemd files)
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_edge
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box-zsh-completion
-  visiblename: sing-box-zsh-completion
-  version: 1.13.21
-  origversion: 1.13.21-r0
-  status: outdated
-  summary: Zsh completions for sing-box
   maintainers:
     - i@lin.moe
   licenses:
@@ -325,7 +254,7 @@
   visiblename: sing-box
   version: 1.14.3
   origversion: 1.14.3-alt1
-  status: newest
+  status: outdated
   summary: The universal proxy platform.
   maintainers:
     - neko@altlinux.org
@@ -333,13 +262,25 @@
     - GPL-3.0-or-later
   categories:
     - System/Servers
-- repo: manjaro_testing
+- repo: aosc
+  srcname: app-proxy/sing-box
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.14.2
+  origversion: null
+  status: outdated
+  summary: A universal proxy platform
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - net
+- repo: arch
   subrepo: extra
   srcname: sing-box
   binname: sing-box
   visiblename: sing-box
-  version: 1.14.2
-  origversion: 1.14.2-2
+  version: 1.14.3
+  origversion: 1.14.3-4
   status: outdated
   summary: The universal proxy platform
   licenses:
@@ -370,12 +311,23 @@
     - mikelei@aur
   licenses:
     - GPL-3.0-or-later
+- repo: stalix
+  srcname: bin/sing/box
+  binname: bin/sing/box
+  visiblename: bin/sing/box
+  version: 1.14.2
+  origversion: null
+  status: outdated
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
 - repo: aur
   srcname: sing-box-bin
   binname: sing-box-bin
   visiblename: sing-box-bin
-  version: 1.14.3
-  origversion: 1.14.3-1
+  version: 1.14.4
+  origversion: 1.14.4-1
   status: newest
   summary: The universal proxy platform (binary version)
   maintainers:
@@ -408,7 +360,7 @@
   visiblename: sing-box
   version: 1.14.3
   origversion: null
-  status: newest
+  status: outdated
   summary: The universal proxy platform
   licenses:
     - GPL-3.0-or-later
@@ -444,7 +396,7 @@
   visiblename: net/sing-box
   version: 1.14.3
   origversion: 1.14.3_1
-  status: newest
+  status: outdated
   summary: Universal proxy platform
   maintainers:
     - yuri@freebsd.org
@@ -455,7 +407,7 @@
   visiblename: sing-box
   version: 1.14.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Universal proxy platform
 - repo: homebrew
   srcname: sing-box
@@ -467,7 +419,7 @@
 - repo: homebrew_casks
   srcname: sfm
   visiblename: SFM
-  version: 1.14.3
+  version: 1.14.4
   origversion: null
   status: newest
   summary: Standalone client for sing-box, the universal proxy platform
@@ -485,6 +437,76 @@
     - GPL-3+
   categories:
     - net
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: sing-box
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.14.0
+  origversion: 1.14.0-3
+  status: outdated
+  summary: The universal proxy platform
+  licenses:
+    - GPL-3.0-or-later
+    - LicenseRef-sing-box-exception
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: sing-box
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.14.2
+  origversion: 1.14.2-2
+  status: outdated
+  summary: The universal proxy platform
+  licenses:
+    - GPL-3.0-or-later
+    - LicenseRef-sing-box-exception
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: sing-box
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.14.3
+  origversion: 1.14.3-4
+  status: outdated
+  summary: The universal proxy platform
+  licenses:
+    - GPL-3.0-or-later
+    - LicenseRef-sing-box-exception
+- repo: nix_stable_24_05
+  srcname: sing-box
+  visiblename: sing-box
+  version: 1.8.14
+  origversion: null
+  status: outdated
+  summary: The universal proxy platform
+  maintainers:
+    - nickcao@nichi.co
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_24_11
+  srcname: sing-box
+  visiblename: sing-box
+  version: 1.10.1
+  origversion: null
+  status: outdated
+  summary: Universal proxy platform
+  maintainers:
+    - nickcao@nichi.co
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_05
+  srcname: sing-box
+  visiblename: sing-box
+  version: 1.11.15
+  origversion: null
+  status: outdated
+  summary: Universal proxy platform
+  maintainers:
+    - nickcao@nichi.co
+    - prc.zhao@outlook.com
+  licenses:
+    - GPL-3.0-or-later
 - repo: nix_stable_25_11
   srcname: sing-box
   visiblename: sing-box
@@ -515,7 +537,7 @@
   visiblename: sing-box
   version: 1.14.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Universal proxy platform
   maintainers:
     - nickcao@nichi.co
@@ -566,7 +588,7 @@
   visiblename: sing-box
   version: 1.14.3
   origversion: 1.14.3-3
-  status: newest
+  status: outdated
   summary: The universal proxy platform
   licenses:
     - GPL-3.0-or-later
@@ -575,40 +597,18 @@
   subrepo: main
   binname: sing-box
   visiblename: sing-box
-  version: 1.14.3
+  version: 1.14.4
   origversion: null
   status: newest
   licenses:
     - GPL-3.0-or-later
-- repo: stalix
-  srcname: bin/sing/box
-  binname: bin/sing/box
-  visiblename: bin/sing/box
-  version: 1.14.2
-  origversion: null
-  status: outdated
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
-- repo: stalix_dev
-  srcname: bin/sing/box
-  binname: bin/sing/box
-  visiblename: bin/sing/box
-  version: 1.14.3
-  origversion: null
-  status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
 - repo: termux
   srcname: sing-box
   binname: sing-box
   visiblename: sing-box
   version: 1.14.3
   origversion: null
-  status: newest
+  status: outdated
   summary: The universal proxy platform
   maintainers:
     - kay9925@outlook.com
@@ -618,7 +618,7 @@
   visiblename: golang-github-sagernet-sing-box-devel
   version: 1.14.3
   origversion: 1.14.3-1.fcrawhide
-  status: newest
+  status: outdated
   summary: The universal proxy platform
   maintainers:
     - mado@fyralabs.com
@@ -632,7 +632,7 @@
   visiblename: sing-box
   version: 1.14.3
   origversion: 1.14.3-1.fcrawhide
-  status: newest
+  status: outdated
   summary: The universal proxy platform
   maintainers:
     - mado@fyralabs.com
@@ -646,7 +646,7 @@
   visiblename: sing-box
   version: 1.14.3
   origversion: 1.14.3-1.fcrawhide
-  status: newest
+  status: outdated
   summary: The universal proxy platform
   maintainers:
     - mado@fyralabs.com
@@ -660,7 +660,7 @@
   visiblename: sing-box-bash-completion
   version: 1.14.3
   origversion: 1.14.3-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Bash completion for sing-box
   maintainers:
     - mado@fyralabs.com
@@ -674,7 +674,7 @@
   visiblename: sing-box-debuginfo
   version: 1.14.3
   origversion: 1.14.3-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package sing-box
   maintainers:
     - mado@fyralabs.com
@@ -688,7 +688,7 @@
   visiblename: sing-box-debuginfo
   version: 1.14.3
   origversion: 1.14.3-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package sing-box
   maintainers:
     - mado@fyralabs.com
@@ -702,7 +702,7 @@
   visiblename: sing-box-debugsource
   version: 1.14.3
   origversion: 1.14.3-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package sing-box
   maintainers:
     - mado@fyralabs.com
@@ -716,7 +716,7 @@
   visiblename: sing-box-debugsource
   version: 1.14.3
   origversion: 1.14.3-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package sing-box
   maintainers:
     - mado@fyralabs.com
@@ -730,7 +730,7 @@
   visiblename: sing-box-fish-completion
   version: 1.14.3
   origversion: 1.14.3-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Fish completion for sing-box
   maintainers:
     - mado@fyralabs.com
@@ -744,7 +744,7 @@
   visiblename: sing-box-zsh-completion
   version: 1.14.3
   origversion: 1.14.3-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Zsh completion for sing-box
   maintainers:
     - mado@fyralabs.com
