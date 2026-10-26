@@ -1,10 +1,3 @@
-- repo: homebrew
-  srcname: sing-box
-  visiblename: sing-box
-  version: 1.14.4
-  origversion: null
-  status: newest
-  summary: Universal proxy platform
 - repo: alpine_3_23
   subrepo: community
   srcname: sing-box
@@ -174,6 +167,13 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
+- repo: chocolatey
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.12.17
+  origversion: null
+  status: outdated
+  summary: The universal proxy platform
 - repo: alpine_edge
   subrepo: community
   srcname: sing-box
@@ -332,13 +332,6 @@
     - fallback-mnt-aur@repology
   licenses:
     - GPL3 with name use or association addition
-- repo: chocolatey
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.12.17
-  origversion: null
-  status: outdated
-  summary: The universal proxy platform
 - repo: fdroid
   srcname: io.nekohasekai.sfa
   binname: io.nekohasekai.sfa
@@ -379,14 +372,21 @@
   srcname: net/sing-box
   binname: sing-box
   visiblename: net/sing-box
-  version: 1.14.3
-  origversion: 1.14.3_1
-  status: outdated
+  version: 1.14.4
+  origversion: null
+  status: newest
   summary: Universal proxy platform
   maintainers:
     - yuri@freebsd.org
   categories:
     - net
+- repo: homebrew
+  srcname: sing-box
+  visiblename: sing-box
+  version: 1.14.4
+  origversion: null
+  status: newest
+  summary: Universal proxy platform
 - repo: homebrew
   srcname: sing-box
   visiblename: sing-box
