@@ -167,13 +167,6 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
-- repo: chocolatey
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.12.17
-  origversion: null
-  status: outdated
-  summary: The universal proxy platform
 - repo: alpine_edge
   subrepo: community
   srcname: sing-box
@@ -187,6 +180,18 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
+- repo: fdroid
+  srcname: io.nekohasekai.sfa
+  binname: io.nekohasekai.sfa
+  visiblename: sing-box
+  version: 1.14.4
+  origversion: null
+  status: newest
+  summary: The universal proxy platform
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - DNS & Hosts
 - repo: alpine_edge
   subrepo: community
   srcname: sing-box
@@ -332,23 +337,18 @@
     - fallback-mnt-aur@repology
   licenses:
     - GPL3 with name use or association addition
+- repo: chocolatey
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.12.17
+  origversion: null
+  status: outdated
+  summary: The universal proxy platform
 - repo: fdroid
   srcname: io.nekohasekai.sfa
   binname: io.nekohasekai.sfa
   visiblename: sing-box
   version: 1.14.3
-  origversion: null
-  status: outdated
-  summary: The universal proxy platform
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - DNS & Hosts
-- repo: fdroid
-  srcname: io.nekohasekai.sfa
-  binname: io.nekohasekai.sfa
-  visiblename: sing-box
-  version: 1.14.2
   origversion: null
   status: legacy
   summary: The universal proxy platform
@@ -360,7 +360,7 @@
   srcname: io.nekohasekai.sfa
   binname: io.nekohasekai.sfa
   visiblename: sing-box
-  version: 1.14.1
+  version: 1.14.2
   origversion: null
   status: legacy
   summary: The universal proxy platform
@@ -513,9 +513,9 @@
 - repo: nix_unstable
   srcname: sing-box
   visiblename: sing-box
-  version: 1.14.3
+  version: 1.14.4
   origversion: null
-  status: outdated
+  status: newest
   summary: Universal proxy platform
   maintainers:
     - nickcao@nichi.co
