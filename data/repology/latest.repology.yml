@@ -50,6 +50,13 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
+- repo: chocolatey
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.12.17
+  origversion: null
+  status: outdated
+  summary: The universal proxy platform
 - repo: alpine_3_23
   subrepo: community
   srcname: sing-box
@@ -147,7 +154,7 @@
   binname: sing-box
   visiblename: sing-box
   version: 1.13.21
-  origversion: 1.13.21-r0
+  origversion: 1.13.21-r1
   status: outdated
   summary: The universal proxy platform
   maintainers:
@@ -160,22 +167,9 @@
   binname: sing-box-bash-completion
   visiblename: sing-box-bash-completion
   version: 1.13.21
-  origversion: 1.13.21-r0
+  origversion: 1.13.21-r1
   status: outdated
   summary: Bash completions for sing-box
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_edge
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box-fish-completion
-  visiblename: sing-box-fish-completion
-  version: 1.13.21
-  origversion: 1.13.21-r0
-  status: outdated
-  summary: Fish completions for sing-box
   maintainers:
     - i@lin.moe
   licenses:
@@ -195,10 +189,23 @@
 - repo: alpine_edge
   subrepo: community
   srcname: sing-box
+  binname: sing-box-fish-completion
+  visiblename: sing-box-fish-completion
+  version: 1.13.21
+  origversion: 1.13.21-r1
+  status: outdated
+  summary: Fish completions for sing-box
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: alpine_edge
+  subrepo: community
+  srcname: sing-box
   binname: sing-box-openrc
   visiblename: sing-box-openrc
   version: 1.13.21
-  origversion: 1.13.21-r0
+  origversion: 1.13.21-r1
   status: outdated
   summary: The universal proxy platform (OpenRC init scripts)
   maintainers:
@@ -211,7 +218,7 @@
   binname: sing-box-systemd
   visiblename: sing-box-systemd
   version: 1.13.21
-  origversion: 1.13.21-r0
+  origversion: 1.13.21-r1
   status: outdated
   summary: The universal proxy platform (systemd files)
   maintainers:
@@ -224,7 +231,7 @@
   binname: sing-box-zsh-completion
   visiblename: sing-box-zsh-completion
   version: 1.13.21
-  origversion: 1.13.21-r0
+  origversion: 1.13.21-r1
   status: outdated
   summary: Zsh completions for sing-box
   maintainers:
@@ -337,13 +344,6 @@
     - fallback-mnt-aur@repology
   licenses:
     - GPL3 with name use or association addition
-- repo: chocolatey
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.12.17
-  origversion: null
-  status: outdated
-  summary: The universal proxy platform
 - repo: fdroid
   srcname: io.nekohasekai.sfa
   binname: io.nekohasekai.sfa
@@ -616,9 +616,9 @@
   srcname: sing-box
   binname: golang-github-sagernet-sing-box-devel
   visiblename: golang-github-sagernet-sing-box-devel
-  version: 1.14.3
-  origversion: 1.14.3-1.fcrawhide
-  status: outdated
+  version: 1.14.4
+  origversion: 1.14.4-1.fcrawhide
+  status: newest
   summary: The universal proxy platform
   maintainers:
     - mado@fyralabs.com
@@ -630,9 +630,9 @@
   srcname: sing-box
   binname: sing-box
   visiblename: sing-box
-  version: 1.14.3
-  origversion: 1.14.3-1.fcrawhide
-  status: outdated
+  version: 1.14.4
+  origversion: 1.14.4-1.fcrawhide
+  status: newest
   summary: The universal proxy platform
   maintainers:
     - mado@fyralabs.com
@@ -644,9 +644,9 @@
   srcname: sing-box
   binname: sing-box
   visiblename: sing-box
-  version: 1.14.3
-  origversion: 1.14.3-1.fcrawhide
-  status: outdated
+  version: 1.14.4
+  origversion: 1.14.4-1.fcrawhide
+  status: newest
   summary: The universal proxy platform
   maintainers:
     - mado@fyralabs.com
@@ -658,9 +658,9 @@
   srcname: sing-box
   binname: sing-box-bash-completion
   visiblename: sing-box-bash-completion
-  version: 1.14.3
-  origversion: 1.14.3-1.fcrawhide
-  status: outdated
+  version: 1.14.4
+  origversion: 1.14.4-1.fcrawhide
+  status: newest
   summary: Bash completion for sing-box
   maintainers:
     - mado@fyralabs.com
@@ -672,9 +672,9 @@
   srcname: sing-box
   binname: sing-box-debuginfo
   visiblename: sing-box-debuginfo
-  version: 1.14.3
-  origversion: 1.14.3-1.fcrawhide
-  status: outdated
+  version: 1.14.4
+  origversion: 1.14.4-1.fcrawhide
+  status: newest
   summary: Debug information for package sing-box
   maintainers:
     - mado@fyralabs.com
@@ -686,9 +686,9 @@
   srcname: sing-box
   binname: sing-box-debuginfo
   visiblename: sing-box-debuginfo
-  version: 1.14.3
-  origversion: 1.14.3-1.fcrawhide
-  status: outdated
+  version: 1.14.4
+  origversion: 1.14.4-1.fcrawhide
+  status: newest
   summary: Debug information for package sing-box
   maintainers:
     - mado@fyralabs.com
@@ -700,9 +700,9 @@
   srcname: sing-box
   binname: sing-box-debugsource
   visiblename: sing-box-debugsource
-  version: 1.14.3
-  origversion: 1.14.3-1.fcrawhide
-  status: outdated
+  version: 1.14.4
+  origversion: 1.14.4-1.fcrawhide
+  status: newest
   summary: Debug sources for package sing-box
   maintainers:
     - mado@fyralabs.com
@@ -714,9 +714,9 @@
   srcname: sing-box
   binname: sing-box-debugsource
   visiblename: sing-box-debugsource
-  version: 1.14.3
-  origversion: 1.14.3-1.fcrawhide
-  status: outdated
+  version: 1.14.4
+  origversion: 1.14.4-1.fcrawhide
+  status: newest
   summary: Debug sources for package sing-box
   maintainers:
     - mado@fyralabs.com
@@ -728,9 +728,9 @@
   srcname: sing-box
   binname: sing-box-fish-completion
   visiblename: sing-box-fish-completion
-  version: 1.14.3
-  origversion: 1.14.3-1.fcrawhide
-  status: outdated
+  version: 1.14.4
+  origversion: 1.14.4-1.fcrawhide
+  status: newest
   summary: Fish completion for sing-box
   maintainers:
     - mado@fyralabs.com
@@ -742,9 +742,9 @@
   srcname: sing-box
   binname: sing-box-zsh-completion
   visiblename: sing-box-zsh-completion
-  version: 1.14.3
-  origversion: 1.14.3-1.fcrawhide
-  status: outdated
+  version: 1.14.4
+  origversion: 1.14.4-1.fcrawhide
+  status: newest
   summary: Zsh completion for sing-box
   maintainers:
     - mado@fyralabs.com
