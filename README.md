@@ -38,22 +38,22 @@ Total: **201,190** lines of code across **1261** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 39,367 · **Forks**: 4,843 · **Open issues**: 3,511 · **Contributors**: 110
+- **Stars**: 39,412 · **Forks**: 4,844 · **Open issues**: 3,513 · **Contributors**: 110
 
 ## Totals (cumulative)
 
-- **Releases**: 608 · **Merged PRs**: 211 · **Open PRs**: 38 · **Closed issues**: 3158 · **Open issues**: 353 · **Commits**: 2901
+- **Releases**: 608 · **Merged PRs**: 211 · **Open PRs**: 38 · **Closed issues**: 3158 · **Open issues**: 355 · **Commits**: 2901
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 6 | 0 | 0 | 12 | 64 | 85 |
-| last60d | 2026-08-30 | 20 | 0 | 0 | 36 | 164 | 210 |
-| 90d | 2026-07-31 | 38 | 5 | 2 | 81 | 196 | 333 |
-| last180d | 2026-05-02 | 74 | 10 | 22 | 211 | 226 | 532 |
-| 360d | 2025-11-03 | 100 | 27 | 38 | 506 | 273 | 868 |
-| last720d | 2024-11-08 | 100 | 93 | 38 | 1430 | 327 | 1403 |
+| 30d | 2026-09-30 | 6 | 0 | 0 | 12 | 65 | 85 |
+| last60d | 2026-08-31 | 18 | 0 | 0 | 36 | 159 | 210 |
+| 90d | 2026-08-01 | 37 | 5 | 2 | 77 | 197 | 333 |
+| last180d | 2026-05-03 | 74 | 10 | 22 | 207 | 228 | 532 |
+| 360d | 2025-11-04 | 100 | 27 | 38 | 506 | 275 | 868 |
+| last720d | 2024-11-09 | 100 | 93 | 38 | 1428 | 329 | 1402 |
 
 ## Release assets
 
@@ -230,7 +230,7 @@ Total: **201,190** lines of code across **1261** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **62** distros on [repology.org](https://repology.org/project/sing-box). **12** are ✅ on the latest upstream release, **44** are ⚠️ on an older version.
+Reported by **62** distros on [repology.org](https://repology.org/project/sing-box). **22** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -249,4 +249,4 @@ Install metadata for sing-box lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:30:24Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:36:19Z._
