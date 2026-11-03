@@ -18,6 +18,34 @@
     - anton@samokhvalov.xyz
   categories:
     - bin
+- repo: stalix_dev
+  srcname: bin/sing/box
+  binname: bin/sing/box
+  visiblename: bin/sing/box
+  version: 1.14.4
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: termux
+  srcname: sing-box
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.14.4
+  origversion: null
+  status: newest
+  summary: The universal proxy platform
+  maintainers:
+    - kay9925@outlook.com
+- repo: chocolatey
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.12.17
+  origversion: null
+  status: outdated
+  summary: The universal proxy platform
 - repo: alpine_3_23
   subrepo: community
   srcname: sing-box
@@ -44,18 +72,6 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
-- repo: arch
-  subrepo: extra
-  srcname: sing-box
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.14.4
-  origversion: 1.14.4-1
-  status: newest
-  summary: The universal proxy platform
-  licenses:
-    - GPL-3.0-or-later
-    - LicenseRef-sing-box-exception
 - repo: alpine_3_23
   subrepo: community
   srcname: sing-box
@@ -173,17 +189,6 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
-- repo: nix_stable_24_11
-  srcname: sing-box
-  visiblename: sing-box
-  version: 1.10.1
-  origversion: null
-  status: outdated
-  summary: Universal proxy platform
-  maintainers:
-    - nickcao@nichi.co
-  licenses:
-    - GPL-3.0-or-later
 - repo: alpine_edge
   subrepo: community
   srcname: sing-box
@@ -210,6 +215,18 @@
     - i@lin.moe
   licenses:
     - GPL-3.0-or-later with name use or association addition
+- repo: fdroid
+  srcname: io.nekohasekai.sfa
+  binname: io.nekohasekai.sfa
+  visiblename: sing-box
+  version: 1.14.4
+  origversion: null
+  status: newest
+  summary: The universal proxy platform
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - DNS & Hosts
 - repo: alpine_edge
   subrepo: community
   srcname: sing-box
@@ -268,8 +285,8 @@
     - sing-box
     - sing-box-debuginfo
   visiblename: sing-box
-  version: 1.13.3
-  origversion: 1.13.3-alt1
+  version: 1.14.3
+  origversion: 1.14.3-alt1
   status: outdated
   summary: The universal proxy platform.
   maintainers:
@@ -306,6 +323,18 @@
     - fallback-mnt-aosc@repology
   categories:
     - net
+- repo: arch
+  subrepo: extra
+  srcname: sing-box
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.14.4
+  origversion: 1.14.4-1
+  status: newest
+  summary: The universal proxy platform
+  licenses:
+    - GPL-3.0-or-later
+    - LicenseRef-sing-box-exception
 - repo: aur
   srcname: sing-box-alpha
   binname: sing-box-alpha
@@ -356,25 +385,6 @@
     - fallback-mnt-aur@repology
   licenses:
     - GPL3 with name use or association addition
-- repo: chocolatey
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.12.17
-  origversion: null
-  status: outdated
-  summary: The universal proxy platform
-- repo: fdroid
-  srcname: io.nekohasekai.sfa
-  binname: io.nekohasekai.sfa
-  visiblename: sing-box
-  version: 1.14.4
-  origversion: null
-  status: newest
-  summary: The universal proxy platform
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - DNS & Hosts
 - repo: fdroid
   srcname: io.nekohasekai.sfa
   binname: io.nekohasekai.sfa
@@ -465,6 +475,17 @@
   origversion: null
   status: outdated
   summary: The universal proxy platform
+  maintainers:
+    - nickcao@nichi.co
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_24_11
+  srcname: sing-box
+  visiblename: sing-box
+  version: 1.10.1
+  origversion: null
+  status: outdated
+  summary: Universal proxy platform
   maintainers:
     - nickcao@nichi.co
   licenses:
@@ -567,27 +588,6 @@
   licenses:
     - GPL-3.0-or-later
     - LicenseRef-sing-box-exception
-- repo: stalix_dev
-  srcname: bin/sing/box
-  binname: bin/sing/box
-  visiblename: bin/sing/box
-  version: 1.14.4
-  origversion: null
-  status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
-- repo: termux
-  srcname: sing-box
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.14.4
-  origversion: null
-  status: newest
-  summary: The universal proxy platform
-  maintainers:
-    - kay9925@outlook.com
 - repo: terra_rawhide
   srcname: sing-box
   binname: golang-github-sagernet-sing-box-devel
