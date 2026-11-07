@@ -38,22 +38,22 @@ Total: **201,206** lines of code across **1261** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 39,681 · **Forks**: 4,889 · **Open issues**: 3,534 · **Contributors**: 110
+- **Stars**: 39,704 · **Forks**: 4,897 · **Open issues**: 3,534 · **Contributors**: 110
 
 ## Totals (cumulative)
 
-- **Releases**: 608 · **Merged PRs**: 211 · **Open PRs**: 37 · **Closed issues**: 3166 · **Open issues**: 368 · **Commits**: 2909
+- **Releases**: 608 · **Merged PRs**: 211 · **Open PRs**: 37 · **Closed issues**: 3167 · **Open issues**: 367 · **Commits**: 2909
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 5 | 0 | 0 | 10 | 64 | 87 |
-| last60d | 2026-09-07 | 15 | 0 | 0 | 34 | 147 | 178 |
-| 90d | 2026-08-08 | 32 | 2 | 0 | 68 | 207 | 311 |
-| last180d | 2026-05-10 | 73 | 10 | 21 | 204 | 241 | 535 |
-| 360d | 2025-11-11 | 100 | 27 | 37 | 504 | 286 | 876 |
-| last720d | 2024-11-16 | 100 | 93 | 37 | 1413 | 341 | 1409 |
+| 30d | 2026-10-08 | 5 | 0 | 0 | 11 | 62 | 87 |
+| last60d | 2026-09-08 | 15 | 0 | 0 | 34 | 145 | 178 |
+| 90d | 2026-08-09 | 31 | 2 | 0 | 68 | 206 | 311 |
+| last180d | 2026-05-11 | 73 | 10 | 21 | 204 | 240 | 535 |
+| 360d | 2025-11-12 | 100 | 27 | 37 | 504 | 285 | 876 |
+| last720d | 2024-11-17 | 100 | 92 | 37 | 1411 | 340 | 1409 |
 
 ## Release assets
 
@@ -228,6 +228,18 @@ Total: **201,206** lines of code across **1261** files in the top 5 languages.
 | [sing-box_1.14.4_openwrt_x86_64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box_1.14.4_openwrt_x86_64.apk) | 30.8 MiB | `other` |
 | [sing-box_1.14.4_openwrt_x86_64.ipk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box_1.14.4_openwrt_x86_64.ipk) | 30.8 MiB | `other` |
 
+## Distribution status
+
+Reported by **62** distros on [repology.org](https://repology.org/project/sing-box). **25** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.14.4` | ✅ latest |
+| Homebrew | `1.14.4` | ✅ latest |
+| Nix unstable | `1.14.4` | ✅ latest |
+| Void | `1.14.0` | ⚠️ outdated |
+| Alpine edge | `1.13.21` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for sing-box lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sing-box` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -237,4 +249,4 @@ Install metadata for sing-box lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:28:49Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:38:08Z._
