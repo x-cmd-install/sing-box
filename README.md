@@ -33,27 +33,27 @@ Total: **201,206** lines of code across **1261** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.15.0-alpha.13` (2026-10-24)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-08
 - **Assets in release**: 168
 
 ## Popularity
 
-- **Stars**: 39,732 · **Forks**: 4,898 · **Open issues**: 3,537 · **Contributors**: 110
+- **Stars**: 39,781 · **Forks**: 4,907 · **Open issues**: 3,538 · **Contributors**: 110
 
 ## Totals (cumulative)
 
-- **Releases**: 608 · **Merged PRs**: 211 · **Open PRs**: 37 · **Closed issues**: 3167 · **Open issues**: 370 · **Commits**: 2909
+- **Releases**: 608 · **Merged PRs**: 211 · **Open PRs**: 37 · **Closed issues**: 3169 · **Open issues**: 369 · **Commits**: 2922
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 5 | 0 | 0 | 10 | 65 | 87 |
-| last60d | 2026-09-09 | 15 | 0 | 0 | 34 | 145 | 178 |
-| 90d | 2026-08-10 | 29 | 1 | 0 | 67 | 209 | 311 |
-| last180d | 2026-05-12 | 72 | 10 | 21 | 202 | 242 | 535 |
-| 360d | 2025-11-13 | 100 | 27 | 37 | 502 | 288 | 876 |
-| last720d | 2024-11-18 | 100 | 92 | 37 | 1411 | 343 | 1409 |
+| 30d | 2026-10-10 | 3 | 0 | 0 | 11 | 64 | 97 |
+| last60d | 2026-09-10 | 15 | 0 | 0 | 35 | 141 | 178 |
+| 90d | 2026-08-11 | 28 | 1 | 0 | 66 | 207 | 298 |
+| last180d | 2026-05-13 | 71 | 10 | 21 | 201 | 240 | 535 |
+| 360d | 2025-11-14 | 100 | 27 | 37 | 503 | 287 | 885 |
+| last720d | 2024-11-19 | 100 | 92 | 37 | 1412 | 342 | 1414 |
 
 ## Release assets
 
@@ -249,4 +249,4 @@ Install metadata for sing-box lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:41:37Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:15:49Z._
