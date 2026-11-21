@@ -1,199 +1,208 @@
-- repo: homebrew
+- repo: nix_stable_25_05
   srcname: sing-box
+  visiblename: sing-box
+  version: 1.11.15
+  origversion: null
+  status: outdated
+  summary: Universal proxy platform
+  maintainers:
+    - nickcao@nichi.co
+    - prc.zhao@outlook.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.12.12
+  origversion: 1.12.12-r6
+  status: outdated
+  summary: The universal proxy platform
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: alpine_3_23
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box-bash-completion
+  visiblename: sing-box-bash-completion
+  version: 1.12.12
+  origversion: 1.12.12-r6
+  status: outdated
+  summary: Bash completions for sing-box
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: alpine_3_23
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box-fish-completion
+  visiblename: sing-box-fish-completion
+  version: 1.12.12
+  origversion: 1.12.12-r6
+  status: outdated
+  summary: Fish completions for sing-box
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: alpine_3_23
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box-openrc
+  visiblename: sing-box-openrc
+  version: 1.12.12
+  origversion: 1.12.12-r6
+  status: outdated
+  summary: The universal proxy platform (OpenRC init scripts)
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: alpine_3_23
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box-zsh-completion
+  visiblename: sing-box-zsh-completion
+  version: 1.12.12
+  origversion: 1.12.12-r6
+  status: outdated
+  summary: Zsh completions for sing-box
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: alpine_3_24
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.13.11
+  origversion: 1.13.11-r3
+  status: outdated
+  summary: The universal proxy platform
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: alpine_3_24
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box-bash-completion
+  visiblename: sing-box-bash-completion
+  version: 1.13.11
+  origversion: 1.13.11-r3
+  status: outdated
+  summary: Bash completions for sing-box
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: alpine_3_24
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box-fish-completion
+  visiblename: sing-box-fish-completion
+  version: 1.13.11
+  origversion: 1.13.11-r3
+  status: outdated
+  summary: Fish completions for sing-box
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: alpine_3_24
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box-openrc
+  visiblename: sing-box-openrc
+  version: 1.13.11
+  origversion: 1.13.11-r3
+  status: outdated
+  summary: The universal proxy platform (OpenRC init scripts)
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: alpine_3_24
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box-systemd
+  visiblename: sing-box-systemd
+  version: 1.13.11
+  origversion: 1.13.11-r3
+  status: outdated
+  summary: The universal proxy platform (systemd files)
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: alpine_3_24
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box-zsh-completion
+  visiblename: sing-box-zsh-completion
+  version: 1.13.11
+  origversion: 1.13.11-r3
+  status: outdated
+  summary: Zsh completions for sing-box
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: alpine_edge
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.13.21
+  origversion: 1.13.21-r1
+  status: outdated
+  summary: The universal proxy platform
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: aur
+  srcname: sing-box-beta-bin
+  binname: sing-box-beta-bin
+  visiblename: sing-box-beta-bin
+  version: 1.15.0~alpha13
+  origversion: 1.15.0~alpha.13-1
+  status: ignored
+  summary: The universal proxy platform (beta binary version).
+  maintainers:
+    - mikelei@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box-bash-completion
+  visiblename: sing-box-bash-completion
+  version: 1.13.21
+  origversion: 1.13.21-r1
+  status: outdated
+  summary: Bash completions for sing-box
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: sing-box
+  binname: sing-box
   visiblename: sing-box
   version: 1.14.4
-  origversion: null
+  origversion: 1.14.4-1
   status: newest
-  summary: Universal proxy platform
-- repo: homebrew
-  srcname: sing-box
-  visiblename: sing-box
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Universal proxy platform
-- repo: alpine_3_23
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.12.12
-  origversion: 1.12.12-r6
-  status: outdated
   summary: The universal proxy platform
-  maintainers:
-    - i@lin.moe
   licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_3_23
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box-bash-completion
-  visiblename: sing-box-bash-completion
-  version: 1.12.12
-  origversion: 1.12.12-r6
-  status: outdated
-  summary: Bash completions for sing-box
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_3_23
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box-fish-completion
-  visiblename: sing-box-fish-completion
-  version: 1.12.12
-  origversion: 1.12.12-r6
-  status: outdated
-  summary: Fish completions for sing-box
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_3_23
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box-openrc
-  visiblename: sing-box-openrc
-  version: 1.12.12
-  origversion: 1.12.12-r6
-  status: outdated
-  summary: The universal proxy platform (OpenRC init scripts)
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_3_23
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box-zsh-completion
-  visiblename: sing-box-zsh-completion
-  version: 1.12.12
-  origversion: 1.12.12-r6
-  status: outdated
-  summary: Zsh completions for sing-box
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_3_24
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.13.11
-  origversion: 1.13.11-r3
-  status: outdated
-  summary: The universal proxy platform
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_edge
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box-zsh-completion
-  visiblename: sing-box-zsh-completion
-  version: 1.13.21
-  origversion: 1.13.21-r1
-  status: outdated
-  summary: Zsh completions for sing-box
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_3_24
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box-bash-completion
-  visiblename: sing-box-bash-completion
-  version: 1.13.11
-  origversion: 1.13.11-r3
-  status: outdated
-  summary: Bash completions for sing-box
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_3_24
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box-fish-completion
-  visiblename: sing-box-fish-completion
-  version: 1.13.11
-  origversion: 1.13.11-r3
-  status: outdated
-  summary: Fish completions for sing-box
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_3_24
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box-openrc
-  visiblename: sing-box-openrc
-  version: 1.13.11
-  origversion: 1.13.11-r3
-  status: outdated
-  summary: The universal proxy platform (OpenRC init scripts)
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_3_24
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box-systemd
-  visiblename: sing-box-systemd
-  version: 1.13.11
-  origversion: 1.13.11-r3
-  status: outdated
-  summary: The universal proxy platform (systemd files)
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_3_24
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box-zsh-completion
-  visiblename: sing-box-zsh-completion
-  version: 1.13.11
-  origversion: 1.13.11-r3
-  status: outdated
-  summary: Zsh completions for sing-box
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_edge
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.13.21
-  origversion: 1.13.21-r1
-  status: outdated
-  summary: The universal proxy platform
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
-- repo: alpine_edge
-  subrepo: community
-  srcname: sing-box
-  binname: sing-box-bash-completion
-  visiblename: sing-box-bash-completion
-  version: 1.13.21
-  origversion: 1.13.21-r1
-  status: outdated
-  summary: Bash completions for sing-box
-  maintainers:
-    - i@lin.moe
-  licenses:
-    - GPL-3.0-or-later with name use or association addition
+    - GPL-3.0-or-later
+    - LicenseRef-sing-box-exception
 - repo: alpine_edge
   subrepo: community
   srcname: sing-box
@@ -229,6 +238,19 @@
   origversion: 1.13.21-r1
   status: outdated
   summary: The universal proxy platform (systemd files)
+  maintainers:
+    - i@lin.moe
+  licenses:
+    - GPL-3.0-or-later with name use or association addition
+- repo: alpine_edge
+  subrepo: community
+  srcname: sing-box
+  binname: sing-box-zsh-completion
+  visiblename: sing-box-zsh-completion
+  version: 1.13.21
+  origversion: 1.13.21-r1
+  status: outdated
+  summary: Zsh completions for sing-box
   maintainers:
     - i@lin.moe
   licenses:
@@ -289,6 +311,18 @@
   licenses:
     - GPL-3.0-or-later
     - LicenseRef-sing-box-exception
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: sing-box
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.14.4
+  origversion: 1.14.4-4
+  status: newest
+  summary: The universal proxy platform
+  licenses:
+    - GPL-3.0-or-later
+    - LicenseRef-sing-box-exception
 - repo: aur
   srcname: sing-box-alpha
   binname: sing-box-alpha
@@ -302,16 +336,15 @@
     - lilac@aur
   licenses:
     - custom:GPL-3.0-or-later WITH name use or association addition
-- repo: aur
-  srcname: sing-box-beta-bin
-  binname: sing-box-beta-bin
-  visiblename: sing-box-beta-bin
-  version: 1.15.0~alpha13
-  origversion: 1.15.0~alpha.13-1
-  status: ignored
-  summary: The universal proxy platform (beta binary version).
+- repo: nix_stable_24_11
+  srcname: sing-box
+  visiblename: sing-box
+  version: 1.10.1
+  origversion: null
+  status: outdated
+  summary: Universal proxy platform
   maintainers:
-    - mikelei@aur
+    - nickcao@nichi.co
   licenses:
     - GPL-3.0-or-later
 - repo: aur
@@ -327,16 +360,6 @@
   licenses:
     - GPL-3.0-or-later
     - LicenseRef-sing-box-exception
-- repo: termux
-  srcname: sing-box
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.14.4
-  origversion: null
-  status: newest
-  summary: The universal proxy platform
-  maintainers:
-    - kay9925@outlook.com
 - repo: aur
   srcname: sing-box-git
   binname: sing-box-git
@@ -404,6 +427,20 @@
     - yuri@freebsd.org
   categories:
     - net
+- repo: homebrew
+  srcname: sing-box
+  visiblename: sing-box
+  version: 1.14.4
+  origversion: null
+  status: newest
+  summary: Universal proxy platform
+- repo: homebrew
+  srcname: sing-box
+  visiblename: sing-box
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Universal proxy platform
 - repo: homebrew_casks
   srcname: sfm
   visiblename: SFM
@@ -437,18 +474,6 @@
   licenses:
     - GPL-3.0-or-later
     - LicenseRef-sing-box-exception
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: sing-box
-  binname: sing-box
-  visiblename: sing-box
-  version: 1.14.4
-  origversion: 1.14.4-1
-  status: newest
-  summary: The universal proxy platform
-  licenses:
-    - GPL-3.0-or-later
-    - LicenseRef-sing-box-exception
 - repo: manjaro_unstable
   subrepo: extra
   srcname: sing-box
@@ -470,29 +495,6 @@
   summary: The universal proxy platform
   maintainers:
     - nickcao@nichi.co
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_stable_24_11
-  srcname: sing-box
-  visiblename: sing-box
-  version: 1.10.1
-  origversion: null
-  status: outdated
-  summary: Universal proxy platform
-  maintainers:
-    - nickcao@nichi.co
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_stable_25_05
-  srcname: sing-box
-  visiblename: sing-box
-  version: 1.11.15
-  origversion: null
-  status: outdated
-  summary: Universal proxy platform
-  maintainers:
-    - nickcao@nichi.co
-    - prc.zhao@outlook.com
   licenses:
     - GPL-3.0-or-later
 - repo: nix_stable_25_11
@@ -612,6 +614,16 @@
     - anton@samokhvalov.xyz
   categories:
     - bin
+- repo: termux
+  srcname: sing-box
+  binname: sing-box
+  visiblename: sing-box
+  version: 1.14.4
+  origversion: null
+  status: newest
+  summary: The universal proxy platform
+  maintainers:
+    - kay9925@outlook.com
 - repo: terra_rawhide
   srcname: sing-box
   binname: golang-github-sagernet-sing-box-devel
