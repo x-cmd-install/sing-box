@@ -38,7 +38,7 @@ Total: **201,670** lines of code across **1262** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 40,156 · **Forks**: 4,968 · **Open issues**: 3,562 · **Contributors**: 110
+- **Stars**: 40,175 · **Forks**: 4,969 · **Open issues**: 3,562 · **Contributors**: 110
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **201,670** lines of code across **1262** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 0 | 0 | 8 | 66 | 112 |
-| last60d | 2026-09-21 | 10 | 0 | 0 | 32 | 129 | 204 |
-| 90d | 2026-08-22 | 24 | 0 | 0 | 55 | 219 | 341 |
-| last180d | 2026-05-24 | 68 | 10 | 19 | 189 | 259 | 587 |
-| 360d | 2025-11-25 | 100 | 27 | 37 | 496 | 307 | 950 |
-| last720d | 2024-11-30 | 100 | 91 | 37 | 1392 | 363 | 1469 |
+| 30d | 2026-10-22 | 2 | 0 | 0 | 7 | 66 | 112 |
+| last60d | 2026-09-22 | 10 | 0 | 0 | 28 | 127 | 204 |
+| 90d | 2026-08-23 | 24 | 0 | 0 | 54 | 219 | 341 |
+| last180d | 2026-05-25 | 68 | 10 | 19 | 188 | 259 | 587 |
+| 360d | 2025-11-26 | 100 | 27 | 37 | 495 | 307 | 950 |
+| last720d | 2024-12-01 | 100 | 91 | 37 | 1390 | 363 | 1468 |
 
 ## Release assets
 
@@ -230,7 +230,7 @@ Total: **201,670** lines of code across **1262** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **62** distros on [repology.org](https://repology.org/project/sing-box). **26** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
+Reported by **63** distros on [repology.org](https://repology.org/project/sing-box). **27** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -249,4 +249,4 @@ Install metadata for sing-box lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:46:14Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:35:55Z._
