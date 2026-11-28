@@ -1,0 +1,195 @@
+about:
+  description: "The universal proxy platform"
+  license: NOASSERTION
+  homepage: https://sing-box.sagernet.org/
+  head: 64417bc
+  archived: false
+  latestVersion: "v1.15.0-alpha.15"
+  latestRelease: "v1.14.6"
+  latestPrerelease: "v1.15.0-alpha.15"
+  collectedAt: 2026-11-28T09:07:30Z
+timeline:
+  created: 2022-06-30
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-28
+  lastPrerelease: 2026-11-28
+popularity:
+  star: 40394
+  watcher: 205
+  fork: 5004
+  release: 612
+  contributor: 110
+  pullRequest: 702
+  issue: 3582
+language:
+  Go: 5695968
+  Shell: 64383
+  Objective-C: 43349
+  Makefile: 10517
+  C: 8458
+  Dockerfile: 1087
+totalBytes: 5823762
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 4
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 14
+    openIssue: 56
+    commit: 188
+  last60d:
+    since: 2026-09-29
+    release: 10
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 34
+    openIssue: 112
+    commit: 274
+  last90d:
+    since: 2026-08-30
+    release: 24
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 59
+    openIssue: 211
+    commit: 407
+  last180d:
+    since: 2026-06-01
+    release: 70
+    mergedPR: 10
+    openPR: 18
+    closedIssue: 198
+    openIssue: 264
+    commit: 679
+  last360d:
+    since: 2025-12-03
+    release: 100
+    mergedPR: 27
+    openPR: 37
+    closedIssue: 506
+    openIssue: 312
+    commit: 1046
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 91
+    openPR: 37
+    closedIssue: 1385
+    openIssue: 368
+    commit: 1563
+total:
+  release: 612
+  mergedPR: 211
+  openPR: 37
+  closedIssue: 3187
+  openIssue: 395
+  commit: 3085
+---
+path: /home/runner/.x-repo/github.com/SagerNet/sing-box
+collectedAt: 2026-11-28T09:07:35Z
+loc:
+  Go:
+    code: 179188
+    comments: 3405
+    blanks: 18034
+    files: 1235
+  Json:
+    code: 18797
+    comments: 0
+    blanks: 0
+    files: 20
+  Bash:
+    code: 1289
+    comments: 41
+    blanks: 250
+    files: 1
+  ObjectiveC:
+    code: 1203
+    comments: 3
+    blanks: 88
+    files: 4
+  Protobuf:
+    code: 949
+    comments: 3
+    blanks: 168
+    files: 5
+  Yaml:
+    code: 339
+    comments: 2
+    blanks: 9
+    files: 3
+  Sh:
+    code: 334
+    comments: 12
+    blanks: 76
+    files: 12
+  Makefile:
+    code: 212
+    comments: 3
+    blanks: 70
+    files: 1
+  Zsh:
+    code: 146
+    comments: 36
+    blanks: 30
+    files: 1
+  Fish:
+    code: 140
+    comments: 49
+    blanks: 46
+    files: 1
+  CHeader:
+    code: 116
+    comments: 6
+    blanks: 19
+    files: 4
+  C:
+    code: 91
+    comments: 0
+    blanks: 13
+    files: 2
+  Svg:
+    code: 69
+    comments: 7
+    blanks: 5
+    files: 1
+  Bitbake:
+    code: 44
+    comments: 3
+    blanks: 13
+    files: 4
+  Dockerfile:
+    code: 33
+    comments: 0
+    blanks: 4
+    files: 2
+  Python:
+    code: 24
+    comments: 1
+    blanks: 7
+    files: 1
+  Xml:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 19549
+    blanks: 14070
+    files: 288
+  Text:
+    code: 0
+    comments: 968
+    blanks: 223
+    files: 1
+total:
+  code: 211448
+  comments: 24113
+  blanks: 33561
+  files: 1587
+---
+
+---
